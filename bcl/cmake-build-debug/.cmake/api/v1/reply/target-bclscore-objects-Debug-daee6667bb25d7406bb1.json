@@ -1,0 +1,1405 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignment_blast_profile.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignment_blosum.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignment_identity.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignment_mean_similarity_matrix.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignment_pam.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignment_phat.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignment_property.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignment_ss_prediction.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_assignments.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_neighborhood_distances.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_neighborhood_exposure.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_neighborhood_exposure_prediction.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_atom_clash.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_clash.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_contact.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_contact_energy.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_distance.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_distance_fitted_function.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_distance_smooth.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_hi_res_clash.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_pair_sidechain_interaction.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_sequence.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_aa_sequence_pair.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_accessibility.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_accessibility_hydrophobic_moment.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_accessibility_hydrophobic_moment_magnitude.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_alignment_quality.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_assignment_gap_simple.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_body_assignment.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_body_connectivity_density.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_body_extent_agreement.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_body_extent_position_agreement.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_consensus_enrichment.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_contact_order.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_bipolar.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_coordinate_exclusion.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_coordinate_triangulation.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_data_density.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_distance_change_magnitude.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_euclidian_distance.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_residue_type_exclusion.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_sequence_separation.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_size.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_sse_center.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_sse_connection.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_sse_size.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_sse_term.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_data_set_pairwise_structural_exposure.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_density_profile_sse_agreement.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_energy_distribution.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_environment_predictions.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_epr_accessibility.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_fuzzy_logic_filter.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_log_normal_distribution.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_loop.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_loop_angle.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_loop_closure.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_phi_psi.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_phi_psi_with_sspred.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_porf.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_atom_density.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_aa_neighborhood.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_aa_neighborhood_docking.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_completeness.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_defined_loops.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_fragment_topology.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_gap.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_inverted.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_loop_domain_closure.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_membrane_topology.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_score_sum.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_sse.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_sse_chirality.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_sse_completeness.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_sse_linear_loop_proximity.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_sse_neighbors.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_sse_packing.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_sse_pairs.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_topology.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_protein_model_wrapper.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_radius_of_gyration.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_read_histograms.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_residual_dipolar_coupling_histogram.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_residual_dipolar_coupling_q_value.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_atom_attraction.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_atom_distance.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_body_protein_model.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_distance_epr.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_distance_spin_label.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_energy_well.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_nmr_distance_interface.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_noe_attraction.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_noe_knowledge_based.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_pofr.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_residual_dipolar_coupling.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_saxs.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_restraint_xlink.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sas_type.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_scores.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_membrane_alignment.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_pair_angle_distance.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_pair_clash.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_pair_connectivity.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_pair_contact.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_pair_gap.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_pair_packing.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_pairs_fragments.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_pool_sses.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_sse_predictions.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_strand_pairing.cpp.o"
+		},
+		{
+			"path" : "source/score/CMakeFiles/bclscore-objects.dir/./bcl_score_symmetry.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"source/score/CMakeLists.txt",
+			"CMakeLists.txt",
+			"bcl_externals.cmake",
+			"source/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 127,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -fmessage-length=0 -g   -Wno-deprecated -Wall -fPIC -fno-pretty-templates"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/apps"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/decortja/bcl_clone/bcl/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/bzip2/1.0.5/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/zlib/1.2.5/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/freeocl/0.3.6/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/decortja/bcl_clone/bcl/source/../include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/decortja/bcl_clone/bcl/source/score/../../include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112
+			]
+		}
+	],
+	"id" : "bclscore-objects::@275dfc0660819d4015a3",
+	"name" : "bclscore-objects",
+	"paths" : 
+	{
+		"build" : "source/score",
+		"source" : "source/score"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignment_blast_profile.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignment_blosum.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignment_identity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignment_mean_similarity_matrix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignment_pam.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignment_phat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignment_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignment_ss_prediction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_assignments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_neighborhood_distances.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_neighborhood_exposure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_neighborhood_exposure_prediction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_atom_clash.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_clash.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_contact.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_contact_energy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_distance.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_distance_fitted_function.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_distance_smooth.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_hi_res_clash.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_pair_sidechain_interaction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_sequence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_aa_sequence_pair.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_accessibility.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_accessibility_hydrophobic_moment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_accessibility_hydrophobic_moment_magnitude.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_alignment_quality.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_assignment_gap_simple.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_body_assignment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_body_connectivity_density.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_body_extent_agreement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_body_extent_position_agreement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_consensus_enrichment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_contact_order.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_bipolar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_coordinate_exclusion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_coordinate_triangulation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_data_density.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_distance_change_magnitude.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_euclidian_distance.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_residue_type_exclusion.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_sequence_separation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_size.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_sse_center.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_sse_connection.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_sse_size.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_sse_term.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_data_set_pairwise_structural_exposure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_density_profile_sse_agreement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_energy_distribution.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_environment_predictions.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_epr_accessibility.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_fuzzy_logic_filter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_log_normal_distribution.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_loop.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_loop_angle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_loop_closure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_phi_psi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_phi_psi_with_sspred.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_porf.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_atom_density.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_aa_neighborhood.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_aa_neighborhood_docking.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_completeness.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_defined_loops.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_fragment_topology.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_gap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_inverted.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_loop_domain_closure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_membrane_topology.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_score_sum.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_sse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_sse_chirality.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_sse_completeness.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_sse_linear_loop_proximity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_sse_neighbors.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_sse_packing.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_sse_pairs.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_topology.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_protein_model_wrapper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_radius_of_gyration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_read_histograms.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_residual_dipolar_coupling_histogram.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_residual_dipolar_coupling_q_value.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_atom_attraction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_atom_distance.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_body_protein_model.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_distance_epr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_distance_spin_label.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_energy_well.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_nmr_distance_interface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_noe_attraction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_noe_knowledge_based.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_pofr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_residual_dipolar_coupling.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_saxs.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_restraint_xlink.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sas_type.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_scores.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_membrane_alignment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_pair_angle_distance.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_pair_clash.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_pair_connectivity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_pair_contact.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_pair_gap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_pair_packing.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_pairs_fragments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_pool_sses.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_sse_predictions.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_strand_pairing.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/score/bcl_score_symmetry.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

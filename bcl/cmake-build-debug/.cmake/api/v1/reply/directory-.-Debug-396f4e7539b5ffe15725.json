@@ -1,0 +1,301 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"bcl_externals.cmake",
+			"CMakeLists.txt",
+			"bcl_runtime_libraries.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 116,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 125,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 116,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 125,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 116,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 125,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 267,
+				"parent" : 0
+			},
+			{
+				"file" : 2,
+				"parent" : 9
+			},
+			{
+				"command" : 0,
+				"file" : 2,
+				"line" : 63,
+				"parent" : 10
+			},
+			{
+				"command" : 0,
+				"file" : 2,
+				"line" : 63,
+				"parent" : 10
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 329,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 336,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 343,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 350,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 357,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 1,
+				"line" : 364,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "BclReleaseAll",
+			"destination" : "lib",
+			"paths" : 
+			[
+				{
+					"from" : "extern/noarch/bzip2/LICENSE.txt",
+					"to" : "bzip2License.txt"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "BclReleaseAll",
+			"destination" : "lib",
+			"paths" : 
+			[
+				{
+					"from" : "extern/Linux2/x86_64/bzip2/1.0.5/lib/libbz2.so",
+					"to" : "libbz2.so.1.0"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "BclReleaseAll",
+			"destination" : "lib",
+			"paths" : 
+			[
+				{
+					"from" : "extern/noarch/zlib/LICENSE.txt",
+					"to" : "zlibLicense.txt"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "BclReleaseAll",
+			"destination" : "lib",
+			"paths" : 
+			[
+				{
+					"from" : "extern/Linux2/x86_64/zlib/1.2.5/lib/libz.so",
+					"to" : "libz.so.1"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "BclReleaseAll",
+			"destination" : "lib",
+			"paths" : 
+			[
+				{
+					"from" : "extern/noarch/freeocl/LICENSE.txt",
+					"to" : "freeoclLicense.txt"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "BclReleaseAll",
+			"destination" : "lib",
+			"paths" : 
+			[
+				{
+					"from" : "extern/Linux2/x86_64/freeocl/0.3.6/lib/libOpenCL.so",
+					"to" : "libOpenCL.so.1"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "BclReleaseAll",
+			"destination" : "lib",
+			"paths" : 
+			[
+				{
+					"from" : "/usr/lib64/libstdc++.so.6.0.19",
+					"to" : "libstdc++.so.6"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "BclReleaseAll",
+			"destination" : "lib",
+			"paths" : 
+			[
+				{
+					"from" : "/usr/lib64/libgcc_s-4.8.5-20150702.so.1",
+					"to" : "libgcc_s.so.1"
+				}
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "BclReleaseAll",
+			"destination" : ".",
+			"paths" : 
+			[
+				"histogram"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "BclReleaseAll",
+			"destination" : "model",
+			"paths" : 
+			[
+				"model/jufo"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "BclReleaseAll",
+			"destination" : ".",
+			"paths" : 
+			[
+				"opencl_kernels"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "BclReleaseAll",
+			"destination" : ".",
+			"paths" : 
+			[
+				"rotamer_library"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "BclLicense",
+			"destination" : ".",
+			"paths" : 
+			[
+				"installer/License.txt"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "BclReleaseAll",
+			"destination" : ".",
+			"paths" : 
+			[
+				{
+					"from" : "installer/ReadMe_Linux.txt",
+					"to" : "ReadMe.txt"
+				}
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

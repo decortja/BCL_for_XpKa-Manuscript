@@ -1,0 +1,240 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "apps/descriptor/CMakeFiles/bclappsdescriptor-objects.dir/./bcl_app_descriptor_analyze.cpp.o"
+		},
+		{
+			"path" : "apps/descriptor/CMakeFiles/bclappsdescriptor-objects.dir/./bcl_app_descriptor_convert_code_object_file.cpp.o"
+		},
+		{
+			"path" : "apps/descriptor/CMakeFiles/bclappsdescriptor-objects.dir/./bcl_app_descriptor_dataset_similarity_measures.cpp.o"
+		},
+		{
+			"path" : "apps/descriptor/CMakeFiles/bclappsdescriptor-objects.dir/./bcl_app_descriptor_generate_dataset.cpp.o"
+		},
+		{
+			"path" : "apps/descriptor/CMakeFiles/bclappsdescriptor-objects.dir/./bcl_app_descriptor_generate_pca_eigenvectors.cpp.o"
+		},
+		{
+			"path" : "apps/descriptor/CMakeFiles/bclappsdescriptor-objects.dir/./bcl_app_descriptor_refine_by_score.cpp.o"
+		},
+		{
+			"path" : "apps/descriptor/CMakeFiles/bclappsdescriptor-objects.dir/./bcl_app_descriptor_score_dataset.cpp.o"
+		},
+		{
+			"path" : "apps/descriptor/CMakeFiles/bclappsdescriptor-objects.dir/./bcl_app_descriptor_sequential_feature_selection.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"apps/descriptor/CMakeLists.txt",
+			"CMakeLists.txt",
+			"bcl_externals.cmake",
+			"apps/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 3,
+				"parent" : 10
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -fmessage-length=0 -g   -Wno-deprecated -Wall -fPIC -fno-pretty-templates"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/apps"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/decortja/bcl_clone/bcl/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/bzip2/1.0.5/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/zlib/1.2.5/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/freeocl/0.3.6/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/decortja/bcl_clone/bcl/apps/../include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"id" : "bclappsdescriptor-objects::@bc2dd2c5c965be220738",
+	"name" : "bclappsdescriptor-objects",
+	"paths" : 
+	{
+		"build" : "apps/descriptor",
+		"source" : "apps/descriptor"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "apps/descriptor/bcl_app_descriptor_analyze.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "apps/descriptor/bcl_app_descriptor_convert_code_object_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "apps/descriptor/bcl_app_descriptor_dataset_similarity_measures.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "apps/descriptor/bcl_app_descriptor_generate_dataset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "apps/descriptor/bcl_app_descriptor_generate_pca_eigenvectors.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "apps/descriptor/bcl_app_descriptor_refine_by_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "apps/descriptor/bcl_app_descriptor_score_dataset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "apps/descriptor/bcl_app_descriptor_sequential_feature_selection.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

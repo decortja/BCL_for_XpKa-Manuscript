@@ -1,0 +1,59 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"source/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 116,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "DynamicLibrary",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libbcl.so.4.3.0"
+			],
+			"targetId" : "bcl-shared::@411ffd8adc737496fe19",
+			"targetIndex" : 8,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "DynamicLibrary",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"lib/libbcl.so"
+			],
+			"targetId" : "bcl-shared::@411ffd8adc737496fe19",
+			"targetIndex" : 8,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "source",
+		"source" : "source"
+	}
+}

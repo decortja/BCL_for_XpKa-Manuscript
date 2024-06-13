@@ -1,0 +1,415 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_app_default_flags.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_command.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_command_line_writer.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_command_state.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_default_flag_types.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_flag_dynamic.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_flag_separator.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_flag_static.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_flag_static_and_dynamic.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_guesser.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_allowed.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_allowed_non_const.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_default.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_extension.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_extensions_file_existence.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_file_existence.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_file_in_search_path.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_interface.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_or.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_ranged.cpp.o"
+		},
+		{
+			"path" : "source/command/CMakeFiles/bclcommand-objects.dir/./bcl_command_parameter_check_serializable.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"source/command/CMakeLists.txt",
+			"CMakeLists.txt",
+			"bcl_externals.cmake",
+			"source/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -fmessage-length=0 -g   -Wno-deprecated -Wall -fPIC -fno-pretty-templates"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/apps"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/decortja/bcl_clone/bcl/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/bzip2/1.0.5/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/zlib/1.2.5/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/freeocl/0.3.6/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/decortja/bcl_clone/bcl/source/../include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/decortja/bcl_clone/bcl/source/command/../../include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			]
+		}
+	],
+	"id" : "bclcommand-objects::@11d1a18c9b55ec4ea8b2",
+	"name" : "bclcommand-objects",
+	"paths" : 
+	{
+		"build" : "source/command",
+		"source" : "source/command"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_app_default_flags.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_command.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_command_line_writer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_command_state.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_default_flag_types.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_flag_dynamic.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_flag_separator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_flag_static.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_flag_static_and_dynamic.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_guesser.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_allowed.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_allowed_non_const.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_default.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_extension.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_extensions_file_existence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_file_existence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_file_in_search_path.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_interface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_or.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_ranged.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/command/bcl_command_parameter_check_serializable.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

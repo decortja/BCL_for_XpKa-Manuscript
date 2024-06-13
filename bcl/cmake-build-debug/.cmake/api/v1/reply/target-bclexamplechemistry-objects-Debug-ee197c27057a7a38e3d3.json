@@ -1,0 +1,1437 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_aa_fragment_complete.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_clash_score.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_complete.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_configurational_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_conformational_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_constitutional_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_environment.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_environment_bender.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_one_four_interaction_score.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_type_data.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_types.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_vdw_score.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_atom_vector.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_bond_configurational.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_bond_conformational.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_bond_constitutional.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_bond_isometry_handler.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_bond_lengths.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_collector_valence.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_configuration_graph_converter.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_configuration_set.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_configuration_set_same_constitution.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_configurational_bond_type_data.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_configurational_bond_types.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_by_dihedral_bins.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_by_dihedrals.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_by_fragments.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_by_property.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_by_real_space_rmsd.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_by_rmsd.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_by_substructure.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_by_symmetry_rmsd.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_property_field_correlation.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_property_rmsd_x.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_psi_field.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_comparison_psi_flex_field.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_graph_converter.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_set.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_set_same_configuration.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_conformation_set_same_constitution.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_constitution_graph_converter.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_constitution_set.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_constitutional_bond_type_data.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_constitutional_bond_types.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_coulombic_score.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_cs_code.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_descriptor_to_score_adaptor.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_electron_configuration.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_element_structure_factor.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_element_type_data.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_element_types.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_complete.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_configuration_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_conformation_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_connector.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_constitution_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_cyclize.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_ensemble.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_feed_from_file.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_feed_from_stream.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_graph_marker.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_grow.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_molecule.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_probability_score.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_remove_bond.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_ring_swap.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_ecfp_fragments.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_isolate.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_largest_component.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_linear_fragments.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_rigid.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_rings.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_rings_with_unsaturated_substituents.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_scaffolds.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_split_unbridged_rings.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_fragment_swap_amide.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_has_properties.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_merge_fragment_complete.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_mol_align_by_parts.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_molecular_configuration_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_molecular_conformation_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_molecular_constitution_shared.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_molecule_complete.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_molecule_ensemble.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_molecule_environment.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_molecule_fragment_recombination.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_molecule_storage_file.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_mutate_chirality.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_mutate_fragment.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_pick_atom_random.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_possible_atom_types_for_atom.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_priority_dihedral_angles.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_reaction_complete.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_reaction_ensemble.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_reaction_search.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_reaction_structure.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_reaction_worker.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_rotamer_dihedral_bond_data.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_rotamer_library_file.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_sample_conformations.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_search_fragment_library_from_tree.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_fragment_isomorphism.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_fragment_mapping.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_misc_properties.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_qsar_storage_file.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_string_properties_cached.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_string_properties_mapped.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_string_properties_name.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_string_properties_numeric.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_small_molecule_string_properties_types.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_solvents.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_stereocenters_handler.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_sub_fragment.cpp.o"
+		},
+		{
+			"path" : "example/chemistry/CMakeFiles/bclexamplechemistry-objects.dir/./example_chemistry_substituent_conformational.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"example/chemistry/CMakeLists.txt",
+			"CMakeLists.txt",
+			"bcl_externals.cmake",
+			"example/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 127,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 7,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 9,
+				"parent" : 10
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -fmessage-length=0 -g   -Wno-deprecated -Wall -fPIC -fno-pretty-templates"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/apps"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/decortja/bcl_clone/bcl/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/bzip2/1.0.5/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/zlib/1.2.5/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/freeocl/0.3.6/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/decortja/bcl_clone/bcl/example/../include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/decortja/bcl_clone/bcl/example"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/decortja/bcl_clone/bcl/example/../apps"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114
+			]
+		}
+	],
+	"id" : "bclexamplechemistry-objects::@9ea874ebcabaabf9aad3",
+	"name" : "bclexamplechemistry-objects",
+	"paths" : 
+	{
+		"build" : "example/chemistry",
+		"source" : "example/chemistry"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_aa_fragment_complete.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_clash_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_complete.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_configurational_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_conformational_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_constitutional_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_environment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_environment_bender.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_one_four_interaction_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_type_data.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_types.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_vdw_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_atom_vector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_bond_configurational.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_bond_conformational.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_bond_constitutional.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_bond_isometry_handler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_bond_lengths.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_collector_valence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_configuration_graph_converter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_configuration_set.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_configuration_set_same_constitution.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_configurational_bond_type_data.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_configurational_bond_types.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_by_dihedral_bins.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_by_dihedrals.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_by_fragments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_by_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_by_real_space_rmsd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_by_rmsd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_by_substructure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_by_symmetry_rmsd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_property_field_correlation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_property_rmsd_x.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_psi_field.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_comparison_psi_flex_field.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_graph_converter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_set.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_set_same_configuration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_conformation_set_same_constitution.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_constitution_graph_converter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_constitution_set.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_constitutional_bond_type_data.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_constitutional_bond_types.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_coulombic_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_cs_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_descriptor_to_score_adaptor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_electron_configuration.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_element_structure_factor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_element_type_data.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_element_types.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_complete.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_configuration_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_conformation_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_connector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_constitution_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_cyclize.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_ensemble.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_feed_from_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_feed_from_stream.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_graph_marker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_grow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_molecule.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_probability_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_remove_bond.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_ring_swap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_ecfp_fragments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_isolate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_largest_component.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_linear_fragments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_rigid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_rings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_rings_with_unsaturated_substituents.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_scaffolds.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_split_unbridged_rings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_fragment_swap_amide.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_has_properties.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_merge_fragment_complete.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_mol_align_by_parts.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_molecular_configuration_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_molecular_conformation_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_molecular_constitution_shared.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_molecule_complete.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_molecule_ensemble.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_molecule_environment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_molecule_fragment_recombination.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_molecule_storage_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_mutate_chirality.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_mutate_fragment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_pick_atom_random.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_possible_atom_types_for_atom.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_priority_dihedral_angles.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_reaction_complete.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_reaction_ensemble.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_reaction_search.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_reaction_structure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_reaction_worker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_rotamer_dihedral_bond_data.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_rotamer_library_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_sample_conformations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_search_fragment_library_from_tree.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_fragment_isomorphism.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_fragment_mapping.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_misc_properties.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_qsar_storage_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_string_properties_cached.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_string_properties_mapped.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_string_properties_name.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_string_properties_numeric.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_small_molecule_string_properties_types.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_solvents.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_stereocenters_handler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_sub_fragment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/chemistry/example_chemistry_substituent_conformational.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

@@ -1,0 +1,1844 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_atom_position.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_atom_property.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_blast_profile.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_blast_weighted_property.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_distance_from_aa_type.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_dssp_info.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_hbond_neighbor.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_info_from_sym_matrix_file.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_inside_outside_membrane.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_molecule_property.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_pair_probability.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_pair_separation.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_pair_type.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_phi_psi.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_pore_orientation.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_position_in_tm.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_property.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_sasa.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_ss_tm_prediction.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_sse_info.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_tm_direction.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_aa_triplet_type.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_aromaticity_axes.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_effective_polarizability.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_estimated_surface_area.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_formal_charge.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_hbond_info.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_is_sp.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_is_sp2.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_is_sp3.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_lone_pair_en.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_misc_property.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_neighbor_direction.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_number_valences.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_pi_charge.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_polarizability.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_relative_property_score.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_ring_size.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_sigma_charge.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_stereocenters.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_surface_area.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_topological_polar_surface_area.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_type_number.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_type_property_retriever.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_vcharge.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atom_volume.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_atomic_number.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_band_pass_filter.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_binary_operation.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_bond_type_count.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_buser_metric.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_cache_map.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_central_2da_sign.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_cheminfo_properties.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_combine.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_constants.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_dataset.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_dataset_builder.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_define.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_element_histogram_1d.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_element_histogram_2d.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_element_type_property_retriever.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_for_each.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_has_cache.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_iterator.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_limit.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_maccs.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_mapped.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_mapped_sequence.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_min_max_index.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_2da_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_2da_max_min.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_2da_max_sign.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_2da_smooth_sign_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3d_distribution.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3d_sign_distribution.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3da_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3da_smooth.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3da_smooth_sign_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3da_smooth_sign_occlusion_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3da_soft_max.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3da_soft_max_sign.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_3da_soft_min.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_asymmetry.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_cached_string.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_complexity.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_entropy_qha.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_fragment_rescale.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_fragment_statistics.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_girth.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_halogenated_aromatic_rings.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_lipinski_violations.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_log_p.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_log_p2008.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_maximum_fragment_statistics.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_name.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_rdf_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_rdf_grid_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_rdf_max_sign_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_rdf_sign_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_rings.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_rotatable_bonds.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_shape_moments.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_storage_id.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_total_bond_energy.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_triangulator_code.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_molecule_xlog_p.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_mutation_aa_property.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_named.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_numeric.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_numeric_string.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_offset.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_outer_product.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_partial.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_periodogram.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_positional.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_power_spectrum.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_power_spectrum_sequence_width.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_prediction.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_prediction_info.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_protein_id.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_replace_undefined_values.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_rescale.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sdf_file_id.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_segment_finder.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_segment_info.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sequence_histogram_1d.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sequence_segment_statistics.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sequence_size.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sequence_sse_count.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sequence_statistics.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sequence_weighted_statistics.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sigmoid.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_sort.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_statistics.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_structure_count.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_structure_search.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_template.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_type.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_umol2d.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_unary_operation.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_window.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_window_average.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_window_conditional_average.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_window_min_max.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_window_pair_square.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_window_segment_statistics.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_window_weights.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_within_range.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_within_range_gaussian.cpp.o"
+		},
+		{
+			"path" : "example/descriptor/CMakeFiles/bclexampledescriptor-objects.dir/./example_descriptor_within_range_smooth.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"example/descriptor/CMakeLists.txt",
+			"CMakeLists.txt",
+			"bcl_externals.cmake",
+			"example/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 164,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 7,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 9,
+				"parent" : 10
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -fmessage-length=0 -g   -Wno-deprecated -Wall -fPIC -fno-pretty-templates"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/apps"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/decortja/bcl_clone/bcl/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/bzip2/1.0.5/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/zlib/1.2.5/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/freeocl/0.3.6/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/decortja/bcl_clone/bcl/example/../include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/decortja/bcl_clone/bcl/example"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/decortja/bcl_clone/bcl/example/../apps"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151
+			]
+		}
+	],
+	"id" : "bclexampledescriptor-objects::@14c89b1ad75daad93dad",
+	"name" : "bclexampledescriptor-objects",
+	"paths" : 
+	{
+		"build" : "example/descriptor",
+		"source" : "example/descriptor"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_atom_position.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_atom_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_blast_profile.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_blast_weighted_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_distance_from_aa_type.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_dssp_info.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_hbond_neighbor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_info_from_sym_matrix_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_inside_outside_membrane.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_molecule_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_pair_probability.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_pair_separation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_pair_type.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_phi_psi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_pore_orientation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_position_in_tm.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_sasa.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_ss_tm_prediction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_sse_info.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_tm_direction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_aa_triplet_type.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_aromaticity_axes.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_effective_polarizability.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_estimated_surface_area.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_formal_charge.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_hbond_info.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_is_sp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_is_sp2.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_is_sp3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_lone_pair_en.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_misc_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_neighbor_direction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_number_valences.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_pi_charge.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_polarizability.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_relative_property_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_ring_size.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_sigma_charge.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_stereocenters.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_surface_area.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_topological_polar_surface_area.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_type_number.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_type_property_retriever.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_vcharge.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atom_volume.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_atomic_number.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_band_pass_filter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_binary_operation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_bond_type_count.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_buser_metric.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_cache_map.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_central_2da_sign.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_cheminfo_properties.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_combine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_constants.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_dataset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_dataset_builder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_define.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_element_histogram_1d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_element_histogram_2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_element_type_property_retriever.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_for_each.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_has_cache.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_iterator.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_limit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_maccs.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_mapped.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_mapped_sequence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_min_max_index.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_2da_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_2da_max_min.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_2da_max_sign.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_2da_smooth_sign_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3d_distribution.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3d_sign_distribution.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3da_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3da_smooth.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3da_smooth_sign_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3da_smooth_sign_occlusion_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3da_soft_max.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3da_soft_max_sign.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_3da_soft_min.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_asymmetry.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_cached_string.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_complexity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_entropy_qha.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_fragment_rescale.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_fragment_statistics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_girth.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_halogenated_aromatic_rings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_lipinski_violations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_log_p.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_log_p2008.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_maximum_fragment_statistics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_name.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_rdf_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_rdf_grid_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_rdf_max_sign_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_rdf_sign_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_rings.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_rotatable_bonds.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_shape_moments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_storage_id.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_total_bond_energy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_triangulator_code.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_molecule_xlog_p.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_mutation_aa_property.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_named.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_numeric.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_numeric_string.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_offset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_outer_product.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_partial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_periodogram.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_positional.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_power_spectrum.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_power_spectrum_sequence_width.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_prediction.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_prediction_info.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_protein_id.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_replace_undefined_values.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_rescale.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sdf_file_id.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_segment_finder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_segment_info.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sequence_histogram_1d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sequence_segment_statistics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sequence_size.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sequence_sse_count.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sequence_statistics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sequence_weighted_statistics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sigmoid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_sort.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_statistics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_structure_count.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_structure_search.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_template.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_type.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_umol2d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_unary_operation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_window.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_window_average.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_window_conditional_average.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_window_min_max.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_window_pair_square.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_window_segment_statistics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_window_weights.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_within_range.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_within_range_gaussian.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "example/descriptor/example_descriptor_within_range_smooth.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

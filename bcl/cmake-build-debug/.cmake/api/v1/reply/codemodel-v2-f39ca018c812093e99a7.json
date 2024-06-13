@@ -1,0 +1,3657 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						44,
+						53
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-396f4e7539b5ffe15725.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						102,
+						103
+					]
+				},
+				{
+					"build" : "source",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-source-Debug-af87b1579fb945e9cd20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "source",
+					"targetIndexes" : 
+					[
+						7,
+						8
+					]
+				},
+				{
+					"build" : "source/align",
+					"jsonFile" : "directory-source.align-Debug-6dfce3fb4d62933443f5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "source/align",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "source/app",
+					"jsonFile" : "directory-source.app-Debug-7f7d34df18a4034bcaca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "source/app",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "source/assemble",
+					"jsonFile" : "directory-source.assemble-Debug-282aef4968ffdf7e4e2a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "source/assemble",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "source/biol",
+					"jsonFile" : "directory-source.biol-Debug-9eb5150a92d68fb009fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "source/biol",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "source/bzip2",
+					"jsonFile" : "directory-source.bzip2-Debug-7df54ed8b42557a660d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 6,
+					"source" : "source/bzip2",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "source/chemistry",
+					"jsonFile" : "directory-source.chemistry-Debug-d2aae3e5e837dc9090a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 7,
+					"source" : "source/chemistry",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "source/cluster",
+					"jsonFile" : "directory-source.cluster-Debug-e00aa03c5b54021e36fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 8,
+					"source" : "source/cluster",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "source/command",
+					"jsonFile" : "directory-source.command-Debug-d7961836b49f1f797d73.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 9,
+					"source" : "source/command",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "source/contact",
+					"jsonFile" : "directory-source.contact-Debug-a418e4cb1223bb149e7e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 10,
+					"source" : "source/contact",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "source/coord",
+					"jsonFile" : "directory-source.coord-Debug-716dde0df45b734b9fd1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 11,
+					"source" : "source/coord",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "source/crypt",
+					"jsonFile" : "directory-source.crypt-Debug-8de9eafcc83ed62b6aae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 12,
+					"source" : "source/crypt",
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"build" : "source/density",
+					"jsonFile" : "directory-source.density-Debug-d56bdc06d603ac7f612b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 13,
+					"source" : "source/density",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "source/descriptor",
+					"jsonFile" : "directory-source.descriptor-Debug-0636d5796d9d733a59a0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 14,
+					"source" : "source/descriptor",
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"build" : "source/find",
+					"jsonFile" : "directory-source.find-Debug-aef052acc66b7a6e3e59.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 15,
+					"source" : "source/find",
+					"targetIndexes" : 
+					[
+						72
+					]
+				},
+				{
+					"build" : "source/fold",
+					"jsonFile" : "directory-source.fold-Debug-b40a644265e8c0a4a712.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 16,
+					"source" : "source/fold",
+					"targetIndexes" : 
+					[
+						73
+					]
+				},
+				{
+					"build" : "source/function",
+					"jsonFile" : "directory-source.function-Debug-85b64dd1b6f3b37d7240.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 17,
+					"source" : "source/function",
+					"targetIndexes" : 
+					[
+						74
+					]
+				},
+				{
+					"build" : "source/graph",
+					"jsonFile" : "directory-source.graph-Debug-0a3f788d88eceada903f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 18,
+					"source" : "source/graph",
+					"targetIndexes" : 
+					[
+						75
+					]
+				},
+				{
+					"build" : "source/gzip",
+					"jsonFile" : "directory-source.gzip-Debug-2783681fa3c5bc43f4bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 19,
+					"source" : "source/gzip",
+					"targetIndexes" : 
+					[
+						76
+					]
+				},
+				{
+					"build" : "source/iterate",
+					"jsonFile" : "directory-source.iterate-Debug-9ed813fcf31f9cc1c134.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 20,
+					"source" : "source/iterate",
+					"targetIndexes" : 
+					[
+						78
+					]
+				},
+				{
+					"build" : "source/io",
+					"jsonFile" : "directory-source.io-Debug-697e64441b1597254d15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 21,
+					"source" : "source/io",
+					"targetIndexes" : 
+					[
+						77
+					]
+				},
+				{
+					"build" : "source/linal",
+					"jsonFile" : "directory-source.linal-Debug-0885710739a2c094d0a5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 22,
+					"source" : "source/linal",
+					"targetIndexes" : 
+					[
+						79
+					]
+				},
+				{
+					"build" : "source/math",
+					"jsonFile" : "directory-source.math-Debug-1a6f4220ea915f7c688c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 23,
+					"source" : "source/math",
+					"targetIndexes" : 
+					[
+						80
+					]
+				},
+				{
+					"build" : "source/mc",
+					"jsonFile" : "directory-source.mc-Debug-dc04e1a6c2f030528933.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 24,
+					"source" : "source/mc",
+					"targetIndexes" : 
+					[
+						81
+					]
+				},
+				{
+					"build" : "source/model",
+					"jsonFile" : "directory-source.model-Debug-18e836070f5a22e452b8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 25,
+					"source" : "source/model",
+					"targetIndexes" : 
+					[
+						82
+					]
+				},
+				{
+					"build" : "source/nmr",
+					"jsonFile" : "directory-source.nmr-Debug-cfc385e96980b4557215.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 26,
+					"source" : "source/nmr",
+					"targetIndexes" : 
+					[
+						83
+					]
+				},
+				{
+					"build" : "source/opencl",
+					"jsonFile" : "directory-source.opencl-Debug-f8fddd87677b0758812e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 27,
+					"source" : "source/opencl",
+					"targetIndexes" : 
+					[
+						84
+					]
+				},
+				{
+					"build" : "source/openblas",
+					"jsonFile" : "directory-source.openblas-Debug-451986d1404d81fd2b34.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "source/openblas"
+				},
+				{
+					"build" : "source/opti",
+					"jsonFile" : "directory-source.opti-Debug-88d76c6ce1e59e5793f5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 28,
+					"source" : "source/opti",
+					"targetIndexes" : 
+					[
+						85
+					]
+				},
+				{
+					"build" : "source/pdb",
+					"jsonFile" : "directory-source.pdb-Debug-3712183775b973814dc9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 29,
+					"source" : "source/pdb",
+					"targetIndexes" : 
+					[
+						86
+					]
+				},
+				{
+					"build" : "source/pthread",
+					"jsonFile" : "directory-source.pthread-Debug-812a0f67d57651d4e89a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 30,
+					"source" : "source/pthread",
+					"targetIndexes" : 
+					[
+						87
+					]
+				},
+				{
+					"build" : "source/quality",
+					"jsonFile" : "directory-source.quality-Debug-b59983d92aba0f893d23.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 31,
+					"source" : "source/quality",
+					"targetIndexes" : 
+					[
+						88
+					]
+				},
+				{
+					"build" : "source/random",
+					"jsonFile" : "directory-source.random-Debug-33c325f6e0eaea0bda1e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 32,
+					"source" : "source/random",
+					"targetIndexes" : 
+					[
+						89
+					]
+				},
+				{
+					"build" : "source/restraint",
+					"jsonFile" : "directory-source.restraint-Debug-25fe23520dfeb72f6679.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 33,
+					"source" : "source/restraint",
+					"targetIndexes" : 
+					[
+						90
+					]
+				},
+				{
+					"build" : "source/sched",
+					"jsonFile" : "directory-source.sched-Debug-909d1a7c40a7bd9a8a0e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 34,
+					"source" : "source/sched",
+					"targetIndexes" : 
+					[
+						91
+					]
+				},
+				{
+					"build" : "source/score",
+					"jsonFile" : "directory-source.score-Debug-935c0e18b5baa1d8dcf4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 35,
+					"source" : "source/score",
+					"targetIndexes" : 
+					[
+						92
+					]
+				},
+				{
+					"build" : "source/scorestat",
+					"jsonFile" : "directory-source.scorestat-Debug-3a8cdd594ed08bd7f175.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 36,
+					"source" : "source/scorestat",
+					"targetIndexes" : 
+					[
+						93
+					]
+				},
+				{
+					"build" : "source/sdf",
+					"jsonFile" : "directory-source.sdf-Debug-51bbf766830994fc95fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 37,
+					"source" : "source/sdf",
+					"targetIndexes" : 
+					[
+						94
+					]
+				},
+				{
+					"build" : "source/signal",
+					"jsonFile" : "directory-source.signal-Debug-c20d8c8480a37e3430fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 38,
+					"source" : "source/signal",
+					"targetIndexes" : 
+					[
+						95
+					]
+				},
+				{
+					"build" : "source/sspred",
+					"jsonFile" : "directory-source.sspred-Debug-5bbeb94618ef698070d5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 39,
+					"source" : "source/sspred",
+					"targetIndexes" : 
+					[
+						96
+					]
+				},
+				{
+					"build" : "source/storage",
+					"jsonFile" : "directory-source.storage-Debug-48e49e087ba9e7536b0f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 40,
+					"source" : "source/storage",
+					"targetIndexes" : 
+					[
+						97
+					]
+				},
+				{
+					"build" : "source/type",
+					"jsonFile" : "directory-source.type-Debug-f09532eaaeb5e615d42d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 41,
+					"source" : "source/type",
+					"targetIndexes" : 
+					[
+						98
+					]
+				},
+				{
+					"build" : "source/util",
+					"jsonFile" : "directory-source.util-Debug-d6596dc27c7bfe3e392e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 42,
+					"source" : "source/util",
+					"targetIndexes" : 
+					[
+						99
+					]
+				},
+				{
+					"build" : "apps",
+					"childIndexes" : 
+					[
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-apps-Debug-93684877161d683afce4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "apps",
+					"targetIndexes" : 
+					[
+						1,
+						2,
+						101
+					]
+				},
+				{
+					"build" : "apps/descriptor",
+					"jsonFile" : "directory-apps.descriptor-Debug-734ea95c346a886848f6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 44,
+					"projectIndex" : 43,
+					"source" : "apps/descriptor",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "apps/internal/biology",
+					"jsonFile" : "directory-apps.internal.biology-Debug-35f2301d3eeb0e95d201.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 44,
+					"projectIndex" : 44,
+					"source" : "apps/internal/biology",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "apps/internal/chemistry",
+					"jsonFile" : "directory-apps.internal.chemistry-Debug-88311b8c681934d78cad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 44,
+					"projectIndex" : 45,
+					"source" : "apps/internal/chemistry",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "apps/internal/util",
+					"jsonFile" : "directory-apps.internal.util-Debug-d952d27de912bbf10d4c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 44,
+					"projectIndex" : 46,
+					"source" : "apps/internal/util",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "apps/model",
+					"jsonFile" : "directory-apps.model-Debug-da49ecfd0f27262a3ddb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 44,
+					"projectIndex" : 47,
+					"source" : "apps/model",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "apps/molecule",
+					"jsonFile" : "directory-apps.molecule-Debug-184d6649a39a06a972e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 44,
+					"projectIndex" : 48,
+					"source" : "apps/molecule",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "apps/restraint",
+					"jsonFile" : "directory-apps.restraint-Debug-e5a2bc05e57822ae0984.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 44,
+					"projectIndex" : 49,
+					"source" : "apps/restraint",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "apps/release",
+					"jsonFile" : "directory-apps.release-Debug-7b450fd166bb8d4756d1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 44,
+					"projectIndex" : 50,
+					"source" : "apps/release",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "example",
+					"childIndexes" : 
+					[
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95
+					],
+					"jsonFile" : "directory-example-Debug-b6fca4a6d0a37c6ae6b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 51,
+					"source" : "example",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						30,
+						100
+					]
+				},
+				{
+					"build" : "example/align",
+					"jsonFile" : "directory-example.align-Debug-9df38f3c5e339c49c85d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 52,
+					"source" : "example/align",
+					"targetIndexes" : 
+					[
+						31
+					]
+				},
+				{
+					"build" : "example/assemble",
+					"jsonFile" : "directory-example.assemble-Debug-1c7f3e4ceab2f1be3851.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 53,
+					"source" : "example/assemble",
+					"targetIndexes" : 
+					[
+						33
+					]
+				},
+				{
+					"build" : "example/biol",
+					"jsonFile" : "directory-example.biol-Debug-9c2bd2434cca13895ba2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 54,
+					"source" : "example/biol",
+					"targetIndexes" : 
+					[
+						34
+					]
+				},
+				{
+					"build" : "example/bzip2",
+					"jsonFile" : "directory-example.bzip2-Debug-7077924a4ef454d2af4a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 55,
+					"source" : "example/bzip2",
+					"targetIndexes" : 
+					[
+						35
+					]
+				},
+				{
+					"build" : "example/chemistry",
+					"jsonFile" : "directory-example.chemistry-Debug-06a0a76ea662470829c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 56,
+					"source" : "example/chemistry",
+					"targetIndexes" : 
+					[
+						36
+					]
+				},
+				{
+					"build" : "example/cluster",
+					"jsonFile" : "directory-example.cluster-Debug-ede740400c7c0a2471b1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 57,
+					"source" : "example/cluster",
+					"targetIndexes" : 
+					[
+						37
+					]
+				},
+				{
+					"build" : "example/crypt",
+					"jsonFile" : "directory-example.crypt-Debug-67e9c915d4ae6bc8e94c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 58,
+					"source" : "example/crypt",
+					"targetIndexes" : 
+					[
+						41
+					]
+				},
+				{
+					"build" : "example/command",
+					"jsonFile" : "directory-example.command-Debug-7608b1c98a0f3a2d79db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 59,
+					"source" : "example/command",
+					"targetIndexes" : 
+					[
+						38
+					]
+				},
+				{
+					"build" : "example/contact",
+					"jsonFile" : "directory-example.contact-Debug-629d8865eb0363eaaed6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 60,
+					"source" : "example/contact",
+					"targetIndexes" : 
+					[
+						39
+					]
+				},
+				{
+					"build" : "example/coord",
+					"jsonFile" : "directory-example.coord-Debug-235a0d59480c42c3803b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 61,
+					"source" : "example/coord",
+					"targetIndexes" : 
+					[
+						40
+					]
+				},
+				{
+					"build" : "example/density",
+					"jsonFile" : "directory-example.density-Debug-656620b62413abb1f6fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 62,
+					"source" : "example/density",
+					"targetIndexes" : 
+					[
+						42
+					]
+				},
+				{
+					"build" : "example/descriptor",
+					"jsonFile" : "directory-example.descriptor-Debug-61777bdd35b349ff02cb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 63,
+					"source" : "example/descriptor",
+					"targetIndexes" : 
+					[
+						43
+					]
+				},
+				{
+					"build" : "example/find",
+					"jsonFile" : "directory-example.find-Debug-768df0cef230fa3d03bd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 64,
+					"source" : "example/find",
+					"targetIndexes" : 
+					[
+						44
+					]
+				},
+				{
+					"build" : "example/fold",
+					"jsonFile" : "directory-example.fold-Debug-f32511361f948ab49188.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 65,
+					"source" : "example/fold",
+					"targetIndexes" : 
+					[
+						45
+					]
+				},
+				{
+					"build" : "example/function",
+					"jsonFile" : "directory-example.function-Debug-f78fa1ac16348098a80b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 66,
+					"source" : "example/function",
+					"targetIndexes" : 
+					[
+						46
+					]
+				},
+				{
+					"build" : "example/graph",
+					"jsonFile" : "directory-example.graph-Debug-730c612ef5cc1a281267.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 67,
+					"source" : "example/graph",
+					"targetIndexes" : 
+					[
+						47
+					]
+				},
+				{
+					"build" : "example/gzip",
+					"jsonFile" : "directory-example.gzip-Debug-d6b193ff7b77fc132845.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 68,
+					"source" : "example/gzip",
+					"targetIndexes" : 
+					[
+						48
+					]
+				},
+				{
+					"build" : "example/io",
+					"jsonFile" : "directory-example.io-Debug-25381e4f617b97947119.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 69,
+					"source" : "example/io",
+					"targetIndexes" : 
+					[
+						49
+					]
+				},
+				{
+					"build" : "example/iterate",
+					"jsonFile" : "directory-example.iterate-Debug-dc48d3d170534ba69aba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 70,
+					"source" : "example/iterate",
+					"targetIndexes" : 
+					[
+						50
+					]
+				},
+				{
+					"build" : "example/linal",
+					"jsonFile" : "directory-example.linal-Debug-5e4de2581805627234ce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 71,
+					"source" : "example/linal",
+					"targetIndexes" : 
+					[
+						51
+					]
+				},
+				{
+					"build" : "example/math",
+					"jsonFile" : "directory-example.math-Debug-56ef997338a5068568de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 72,
+					"source" : "example/math",
+					"targetIndexes" : 
+					[
+						52
+					]
+				},
+				{
+					"build" : "example/mc",
+					"jsonFile" : "directory-example.mc-Debug-d3753f0af2941b44305d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 73,
+					"source" : "example/mc",
+					"targetIndexes" : 
+					[
+						53
+					]
+				},
+				{
+					"build" : "example/model",
+					"jsonFile" : "directory-example.model-Debug-963bbaeed0a4a306bf3d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 74,
+					"source" : "example/model",
+					"targetIndexes" : 
+					[
+						54
+					]
+				},
+				{
+					"build" : "example/nmr",
+					"jsonFile" : "directory-example.nmr-Debug-5a193f33b0287ce71290.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 75,
+					"source" : "example/nmr",
+					"targetIndexes" : 
+					[
+						55
+					]
+				},
+				{
+					"build" : "example/openblas",
+					"jsonFile" : "directory-example.openblas-Debug-5ceff5fb928ff3d5639e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 51,
+					"source" : "example/openblas"
+				},
+				{
+					"build" : "example/opencl",
+					"jsonFile" : "directory-example.opencl-Debug-20ab83c2bda302c85f1b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 76,
+					"source" : "example/opencl",
+					"targetIndexes" : 
+					[
+						56
+					]
+				},
+				{
+					"build" : "example/opti",
+					"jsonFile" : "directory-example.opti-Debug-0cd556bfd1927365372f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 77,
+					"source" : "example/opti",
+					"targetIndexes" : 
+					[
+						57
+					]
+				},
+				{
+					"build" : "example/pdb",
+					"jsonFile" : "directory-example.pdb-Debug-82dd89aefbe815ae4f38.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 78,
+					"source" : "example/pdb",
+					"targetIndexes" : 
+					[
+						58
+					]
+				},
+				{
+					"build" : "example/pthread",
+					"jsonFile" : "directory-example.pthread-Debug-5a3b814ef61e6e2b57e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 79,
+					"source" : "example/pthread",
+					"targetIndexes" : 
+					[
+						59
+					]
+				},
+				{
+					"build" : "example/quality",
+					"jsonFile" : "directory-example.quality-Debug-82eca566349aaf38cf0d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 80,
+					"source" : "example/quality",
+					"targetIndexes" : 
+					[
+						60
+					]
+				},
+				{
+					"build" : "example/random",
+					"jsonFile" : "directory-example.random-Debug-d2f819b907410e776c30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 81,
+					"source" : "example/random",
+					"targetIndexes" : 
+					[
+						61
+					]
+				},
+				{
+					"build" : "example/restraint",
+					"jsonFile" : "directory-example.restraint-Debug-361224d27a38361b82de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 82,
+					"source" : "example/restraint",
+					"targetIndexes" : 
+					[
+						62
+					]
+				},
+				{
+					"build" : "example/sched",
+					"jsonFile" : "directory-example.sched-Debug-637c4c812b12817b2774.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 83,
+					"source" : "example/sched",
+					"targetIndexes" : 
+					[
+						63
+					]
+				},
+				{
+					"build" : "example/score",
+					"jsonFile" : "directory-example.score-Debug-1a75b0a1739623cd6aa6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 84,
+					"source" : "example/score",
+					"targetIndexes" : 
+					[
+						64
+					]
+				},
+				{
+					"build" : "example/scorestat",
+					"jsonFile" : "directory-example.scorestat-Debug-f8b375c6d89fd17a045c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 85,
+					"source" : "example/scorestat",
+					"targetIndexes" : 
+					[
+						65
+					]
+				},
+				{
+					"build" : "example/sdf",
+					"jsonFile" : "directory-example.sdf-Debug-636524547193d905e026.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 86,
+					"source" : "example/sdf",
+					"targetIndexes" : 
+					[
+						66
+					]
+				},
+				{
+					"build" : "example/signal",
+					"jsonFile" : "directory-example.signal-Debug-99df8066fbd7b7a8ec05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 87,
+					"source" : "example/signal",
+					"targetIndexes" : 
+					[
+						67
+					]
+				},
+				{
+					"build" : "example/sspred",
+					"jsonFile" : "directory-example.sspred-Debug-9495b6432e6009f805db.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 88,
+					"source" : "example/sspred",
+					"targetIndexes" : 
+					[
+						68
+					]
+				},
+				{
+					"build" : "example/storage",
+					"jsonFile" : "directory-example.storage-Debug-bf17214595c2b96cbb7d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 89,
+					"source" : "example/storage",
+					"targetIndexes" : 
+					[
+						69
+					]
+				},
+				{
+					"build" : "example/type",
+					"jsonFile" : "directory-example.type-Debug-a958299e6d9660004187.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 90,
+					"source" : "example/type",
+					"targetIndexes" : 
+					[
+						70
+					]
+				},
+				{
+					"build" : "example/util",
+					"jsonFile" : "directory-example.util-Debug-7c9ae75aff85501da667.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 91,
+					"source" : "example/util",
+					"targetIndexes" : 
+					[
+						71
+					]
+				},
+				{
+					"build" : "example/apps",
+					"childIndexes" : 
+					[
+						96,
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104
+					],
+					"jsonFile" : "directory-example.apps-Debug-df40d36bb07f8686464e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 53,
+					"projectIndex" : 92,
+					"source" : "example/apps",
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"build" : "example/apps/descriptor",
+					"jsonFile" : "directory-example.apps.descriptor-Debug-54c3b4e4af96b26c3d21.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/descriptor"
+				},
+				{
+					"build" : "example/apps/internal/biology",
+					"jsonFile" : "directory-example.apps.internal.biology-Debug-19941fe20289b17d494f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/internal/biology"
+				},
+				{
+					"build" : "example/apps/internal/chemistry",
+					"jsonFile" : "directory-example.apps.internal.chemistry-Debug-e4c1455f2f0673b5f3c3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/internal/chemistry"
+				},
+				{
+					"build" : "example/apps/internal/util",
+					"jsonFile" : "directory-example.apps.internal.util-Debug-5838a36dcba230887d41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/internal/util"
+				},
+				{
+					"build" : "example/apps/model",
+					"jsonFile" : "directory-example.apps.model-Debug-053e4c53b935a80f0bd1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/model"
+				},
+				{
+					"build" : "example/apps/molecule",
+					"jsonFile" : "directory-example.apps.molecule-Debug-6c6bb5f9adbeafdfdd8e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/molecule"
+				},
+				{
+					"build" : "example/apps/restraint",
+					"jsonFile" : "directory-example.apps.restraint-Debug-edd6b9db2f030f5a559e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/restraint"
+				},
+				{
+					"build" : "example/apps/sequence",
+					"jsonFile" : "directory-example.apps.sequence-Debug-378708dcd2b6799c4f46.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/sequence"
+				},
+				{
+					"build" : "example/apps/release",
+					"jsonFile" : "directory-example.apps.release-Debug-a5c19ba7ef9d994f391b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 95,
+					"projectIndex" : 92,
+					"source" : "example/apps/release"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						44
+					],
+					"name" : "bcl-project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						101,
+						102,
+						103
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						28
+					],
+					"name" : "libbcl",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "libbclalign",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "libbclapp",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "libbclassemble",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "libbclbiol",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "libbclbzip2",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "libbclchemistry",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "libbclcluster",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "libbclcommand",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "libbclcontact",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "libbclcoord",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "libbclcrypt",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "libbcldensity",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "libbcldescriptor",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "libbclfind",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						72
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "libbclfold",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						73
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "libbclfunction",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						74
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						18
+					],
+					"name" : "libbclgraph",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						75
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						19
+					],
+					"name" : "libbclgzip",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						76
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						20
+					],
+					"name" : "libbcliterate",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						78
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						21
+					],
+					"name" : "libbclio",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						77
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						22
+					],
+					"name" : "libbcllinal",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						79
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						23
+					],
+					"name" : "libbclmath",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						80
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						24
+					],
+					"name" : "libbclmc",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						81
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						25
+					],
+					"name" : "libbclmodel",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						82
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						26
+					],
+					"name" : "libbclnmr",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						83
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						27
+					],
+					"name" : "libbclopencl",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						84
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						29
+					],
+					"name" : "libbclopti",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						85
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						30
+					],
+					"name" : "libbclpdb",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						86
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						31
+					],
+					"name" : "libbclpthread",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						87
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						32
+					],
+					"name" : "libbclquality",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						88
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						33
+					],
+					"name" : "libbclrandom",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						89
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						34
+					],
+					"name" : "libbclrestraint",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						90
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						35
+					],
+					"name" : "libbclsched",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						91
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						36
+					],
+					"name" : "libbclscore",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						92
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						37
+					],
+					"name" : "libbclscorestat",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						93
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						38
+					],
+					"name" : "libbclsdf",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						94
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						39
+					],
+					"name" : "libbclsignal",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						95
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						40
+					],
+					"name" : "libbclsspred",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						96
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						41
+					],
+					"name" : "libbclstorage",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						97
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						42
+					],
+					"name" : "libbcltype",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						98
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						43
+					],
+					"name" : "libbclutil",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						99
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						45
+					],
+					"name" : "libbclappsdescriptor",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						46
+					],
+					"name" : "libbclappsinternalbiology",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						47
+					],
+					"name" : "libbclappsinternalchemistry",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						48
+					],
+					"name" : "libbclappsinternalutil",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						49
+					],
+					"name" : "libbclappsmodel",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						50
+					],
+					"name" : "libbclappsmolecule",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						51
+					],
+					"name" : "libbclappsrestraint",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						52
+					],
+					"name" : "libbclappsrelease",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92
+					],
+					"directoryIndexes" : 
+					[
+						53,
+						78
+					],
+					"name" : "libbclexample",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						30,
+						100
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						54
+					],
+					"name" : "libbclexamplealign",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						31
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						55
+					],
+					"name" : "libbclexampleassemble",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						33
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						56
+					],
+					"name" : "libbclexamplebiol",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						34
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						57
+					],
+					"name" : "libbclexamplebzip2",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						35
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						58
+					],
+					"name" : "libbclexamplechemistry",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						36
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						59
+					],
+					"name" : "libbclexamplecluster",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						37
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						60
+					],
+					"name" : "libbclexamplecrypt",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						41
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						61
+					],
+					"name" : "libbclexamplecommand",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						38
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						62
+					],
+					"name" : "libbclexamplecontact",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						39
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						63
+					],
+					"name" : "libbclexamplecoord",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						40
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						64
+					],
+					"name" : "libbclexampledensity",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						42
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						65
+					],
+					"name" : "libbclexampledescriptor",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						43
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						66
+					],
+					"name" : "libbclexamplefind",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						44
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						67
+					],
+					"name" : "libbclexamplefold",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						45
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						68
+					],
+					"name" : "libbclexamplefunction",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						46
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						69
+					],
+					"name" : "libbclexamplegraph",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						47
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						70
+					],
+					"name" : "libbclexamplegzip",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						48
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						71
+					],
+					"name" : "libbclexampleio",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						49
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						72
+					],
+					"name" : "libbclexampleiterator",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						50
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						73
+					],
+					"name" : "libbclexamplelinal",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						51
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						74
+					],
+					"name" : "libbclexamplemath",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						52
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						75
+					],
+					"name" : "libbclexamplemc",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						53
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						76
+					],
+					"name" : "libbclexamplemodel",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						54
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						77
+					],
+					"name" : "libbclexamplenmr",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						55
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						79
+					],
+					"name" : "libbclexampleopencl",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						56
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						80
+					],
+					"name" : "libbclexampleopti",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						57
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						81
+					],
+					"name" : "libbclexamplepdb",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						58
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						82
+					],
+					"name" : "libbclexamplepthread",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						59
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						83
+					],
+					"name" : "libbclexamplequality",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						60
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						84
+					],
+					"name" : "libbclexamplerandom",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						61
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						85
+					],
+					"name" : "libbclexamplerestraint",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						62
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						86
+					],
+					"name" : "libbclexamplesched",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						63
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						87
+					],
+					"name" : "libbclexamplescore",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						64
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						88
+					],
+					"name" : "libbclexamplescorestat",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						65
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						89
+					],
+					"name" : "libbclexamplesdf",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						66
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						90
+					],
+					"name" : "libbclexamplesignal",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						67
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						91
+					],
+					"name" : "libbclexamplesspred",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						68
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						92
+					],
+					"name" : "libbclexamplestorage",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						69
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						93
+					],
+					"name" : "libbclexampletype",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						70
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						94
+					],
+					"name" : "libbclexampleutil",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						71
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						95,
+						96,
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104
+					],
+					"name" : "libbclexampleapps",
+					"parentIndex" : 51,
+					"targetIndexes" : 
+					[
+						32
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "apps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apps-Debug-4ca2a1965e0af6eeed4e.json",
+					"name" : "apps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 44,
+					"id" : "bcl-apps::@9e189ee61a034fc9b705",
+					"jsonFile" : "target-bcl-apps-Debug-c4885b209e1eb03b29d9.json",
+					"name" : "bcl-apps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 44,
+					"id" : "bcl-apps-static::@9e189ee61a034fc9b705",
+					"jsonFile" : "target-bcl-apps-static-Debug-0090cb7c6f84dd660345.json",
+					"name" : "bcl-apps-static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 53,
+					"id" : "bcl-example::@70983d692f648185febe",
+					"jsonFile" : "target-bcl-example-Debug-0cffcccbbaa261b9c469.json",
+					"name" : "bcl-example",
+					"projectIndex" : 51
+				},
+				{
+					"directoryIndex" : 53,
+					"id" : "bcl-example-apps::@70983d692f648185febe",
+					"jsonFile" : "target-bcl-example-apps-Debug-c5cd0244dcbbb02477c9.json",
+					"name" : "bcl-example-apps",
+					"projectIndex" : 51
+				},
+				{
+					"directoryIndex" : 53,
+					"id" : "bcl-example-apps-static::@70983d692f648185febe",
+					"jsonFile" : "target-bcl-example-apps-static-Debug-a5bf1ab6638c5b3bc671.json",
+					"name" : "bcl-example-apps-static",
+					"projectIndex" : 51
+				},
+				{
+					"directoryIndex" : 53,
+					"id" : "bcl-example-static::@70983d692f648185febe",
+					"jsonFile" : "target-bcl-example-static-Debug-46fef488045c592f9d58.json",
+					"name" : "bcl-example-static",
+					"projectIndex" : 51
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bcl-objects::@411ffd8adc737496fe19",
+					"jsonFile" : "target-bcl-objects-Debug-f9b1cfc0b418bd5201a5.json",
+					"name" : "bcl-objects",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bcl-shared::@411ffd8adc737496fe19",
+					"jsonFile" : "target-bcl-shared-Debug-63add7b1267e983d9c9b.json",
+					"name" : "bcl-shared",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "bclalign-objects::@9b7d61d6b3bfa68fc2c5",
+					"jsonFile" : "target-bclalign-objects-Debug-6d1b57ebfc802a210cb6.json",
+					"name" : "bclalign-objects",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "bclapp-objects::@2f8e42959f975d322c07",
+					"jsonFile" : "target-bclapp-objects-Debug-154de87e7966d87e0ac3.json",
+					"name" : "bclapp-objects",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 45,
+					"id" : "bclappsdescriptor-objects::@bc2dd2c5c965be220738",
+					"jsonFile" : "target-bclappsdescriptor-objects-Debug-48d508945a1a12bbd654.json",
+					"name" : "bclappsdescriptor-objects",
+					"projectIndex" : 43
+				},
+				{
+					"directoryIndex" : 46,
+					"id" : "bclappsinternalbiology-objects::@cfc876dc320194dbf628",
+					"jsonFile" : "target-bclappsinternalbiology-objects-Debug-a29df23762336f11468c.json",
+					"name" : "bclappsinternalbiology-objects",
+					"projectIndex" : 44
+				},
+				{
+					"directoryIndex" : 47,
+					"id" : "bclappsinternalchemistry-objects::@f139889cc91cd5b74e80",
+					"jsonFile" : "target-bclappsinternalchemistry-objects-Debug-7f239284ead7cfc368d9.json",
+					"name" : "bclappsinternalchemistry-objects",
+					"projectIndex" : 45
+				},
+				{
+					"directoryIndex" : 48,
+					"id" : "bclappsinternalutil-objects::@96ca09fab5f419c51d10",
+					"jsonFile" : "target-bclappsinternalutil-objects-Debug-5cc1eb49baa22a1623f4.json",
+					"name" : "bclappsinternalutil-objects",
+					"projectIndex" : 46
+				},
+				{
+					"directoryIndex" : 49,
+					"id" : "bclappsmodel-objects::@7e95ea6b46f66f417540",
+					"jsonFile" : "target-bclappsmodel-objects-Debug-b2c53d98412dae0cccf9.json",
+					"name" : "bclappsmodel-objects",
+					"projectIndex" : 47
+				},
+				{
+					"directoryIndex" : 50,
+					"id" : "bclappsmolecule-objects::@fa9816c85e8f1f7fb37f",
+					"jsonFile" : "target-bclappsmolecule-objects-Debug-901c58d4367435afda3a.json",
+					"name" : "bclappsmolecule-objects",
+					"projectIndex" : 48
+				},
+				{
+					"directoryIndex" : 52,
+					"id" : "bclappsrelease-rest-objects::@9215ad52cf14fe905158",
+					"jsonFile" : "target-bclappsrelease-rest-objects-Debug-37ec85d7526bcacce329.json",
+					"name" : "bclappsrelease-rest-objects",
+					"projectIndex" : 50
+				},
+				{
+					"directoryIndex" : 51,
+					"id" : "bclappsrestraint-objects::@b477cf519fcfa98c4919",
+					"jsonFile" : "target-bclappsrestraint-objects-Debug-debabaf2ba3032675f21.json",
+					"name" : "bclappsrestraint-objects",
+					"projectIndex" : 49
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "bclassemble-objects::@265a1cb8b95198c238c4",
+					"jsonFile" : "target-bclassemble-objects-Debug-3b6bfa3e789b0a258f39.json",
+					"name" : "bclassemble-objects",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "bclbiol-objects::@f3bd98df8597ce89166d",
+					"jsonFile" : "target-bclbiol-objects-Debug-d3c57382ee8513c76f1d.json",
+					"name" : "bclbiol-objects",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "bclbzip2-objects::@9bf2cb9121d72b7986f6",
+					"jsonFile" : "target-bclbzip2-objects-Debug-55283ec8cbbec256dfd4.json",
+					"name" : "bclbzip2-objects",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "bclchemistry-objects::@23fcaa6e60b2a206fe1c",
+					"jsonFile" : "target-bclchemistry-objects-Debug-365af139b9333b5be092.json",
+					"name" : "bclchemistry-objects",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "bclcluster-objects::@7ad24df14b5a66fa9f5c",
+					"jsonFile" : "target-bclcluster-objects-Debug-b3a68cefc77e445769d7.json",
+					"name" : "bclcluster-objects",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "bclcommand-objects::@11d1a18c9b55ec4ea8b2",
+					"jsonFile" : "target-bclcommand-objects-Debug-77d4ad3f5c0cb8c3b4be.json",
+					"name" : "bclcommand-objects",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "bclcontact-objects::@f49b6a38a2e0d10df359",
+					"jsonFile" : "target-bclcontact-objects-Debug-c1f31111252098cdc082.json",
+					"name" : "bclcontact-objects",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "bclcoord-objects::@94a03ba6a9b8cb48b50f",
+					"jsonFile" : "target-bclcoord-objects-Debug-c34cdb49db505025ca3c.json",
+					"name" : "bclcoord-objects",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "bclcrypt-objects::@43c4f705a19537a7e7a9",
+					"jsonFile" : "target-bclcrypt-objects-Debug-11ad4dcc0b3ff74319af.json",
+					"name" : "bclcrypt-objects",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "bcldensity-objects::@27e85b801ab0ee654366",
+					"jsonFile" : "target-bcldensity-objects-Debug-f2043f1cc79e5f3b1f5f.json",
+					"name" : "bcldensity-objects",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "bcldescriptor-objects::@b1b623fa48bcff5d7078",
+					"jsonFile" : "target-bcldescriptor-objects-Debug-0a77b3d248cdf2f4a217.json",
+					"name" : "bcldescriptor-objects",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 53,
+					"id" : "bclexample-objects::@70983d692f648185febe",
+					"jsonFile" : "target-bclexample-objects-Debug-e2029dacb7833df2a424.json",
+					"name" : "bclexample-objects",
+					"projectIndex" : 51
+				},
+				{
+					"directoryIndex" : 54,
+					"id" : "bclexamplealign-objects::@7c7c6c027e632b182e8e",
+					"jsonFile" : "target-bclexamplealign-objects-Debug-05ef448dd9c78d9ac2df.json",
+					"name" : "bclexamplealign-objects",
+					"projectIndex" : 52
+				},
+				{
+					"directoryIndex" : 95,
+					"id" : "bclexampleapps-objects::@5d9a3e6ef49356562f78",
+					"jsonFile" : "target-bclexampleapps-objects-Debug-3604ff89d3b24b599776.json",
+					"name" : "bclexampleapps-objects",
+					"projectIndex" : 92
+				},
+				{
+					"directoryIndex" : 55,
+					"id" : "bclexampleassemble-objects::@3874fad7caa9eafe6728",
+					"jsonFile" : "target-bclexampleassemble-objects-Debug-ce293700be7eb2d66016.json",
+					"name" : "bclexampleassemble-objects",
+					"projectIndex" : 53
+				},
+				{
+					"directoryIndex" : 56,
+					"id" : "bclexamplebiol-objects::@120baf7a7e796b4c74ba",
+					"jsonFile" : "target-bclexamplebiol-objects-Debug-6d11c1365b20acc123a1.json",
+					"name" : "bclexamplebiol-objects",
+					"projectIndex" : 54
+				},
+				{
+					"directoryIndex" : 57,
+					"id" : "bclexamplebzip2-objects::@60bdfdfb4437fc5a5ae3",
+					"jsonFile" : "target-bclexamplebzip2-objects-Debug-2fb9eecdd319d069a47b.json",
+					"name" : "bclexamplebzip2-objects",
+					"projectIndex" : 55
+				},
+				{
+					"directoryIndex" : 58,
+					"id" : "bclexamplechemistry-objects::@9ea874ebcabaabf9aad3",
+					"jsonFile" : "target-bclexamplechemistry-objects-Debug-ee197c27057a7a38e3d3.json",
+					"name" : "bclexamplechemistry-objects",
+					"projectIndex" : 56
+				},
+				{
+					"directoryIndex" : 59,
+					"id" : "bclexamplecluster-objects::@06a31d23a5a8eb188b7f",
+					"jsonFile" : "target-bclexamplecluster-objects-Debug-1de64ec1e895ef0f3e5f.json",
+					"name" : "bclexamplecluster-objects",
+					"projectIndex" : 57
+				},
+				{
+					"directoryIndex" : 61,
+					"id" : "bclexamplecommand-objects::@0a13132177efd4aa1e7f",
+					"jsonFile" : "target-bclexamplecommand-objects-Debug-3f193457d8139b39ce31.json",
+					"name" : "bclexamplecommand-objects",
+					"projectIndex" : 59
+				},
+				{
+					"directoryIndex" : 62,
+					"id" : "bclexamplecontact-objects::@983455bde7b4cb7369bf",
+					"jsonFile" : "target-bclexamplecontact-objects-Debug-c9960e65d4ba12afe445.json",
+					"name" : "bclexamplecontact-objects",
+					"projectIndex" : 60
+				},
+				{
+					"directoryIndex" : 63,
+					"id" : "bclexamplecoord-objects::@282748811f9ef908c369",
+					"jsonFile" : "target-bclexamplecoord-objects-Debug-3cf3e47205b404a79518.json",
+					"name" : "bclexamplecoord-objects",
+					"projectIndex" : 61
+				},
+				{
+					"directoryIndex" : 60,
+					"id" : "bclexamplecrypt-objects::@170b82aff209eceac51b",
+					"jsonFile" : "target-bclexamplecrypt-objects-Debug-638f61c9b4a2a0c62b5f.json",
+					"name" : "bclexamplecrypt-objects",
+					"projectIndex" : 58
+				},
+				{
+					"directoryIndex" : 64,
+					"id" : "bclexampledensity-objects::@b4a17c90146eacb8f336",
+					"jsonFile" : "target-bclexampledensity-objects-Debug-5a1932fd8bc5e69f51e1.json",
+					"name" : "bclexampledensity-objects",
+					"projectIndex" : 62
+				},
+				{
+					"directoryIndex" : 65,
+					"id" : "bclexampledescriptor-objects::@14c89b1ad75daad93dad",
+					"jsonFile" : "target-bclexampledescriptor-objects-Debug-f747886f303a2ade3e0f.json",
+					"name" : "bclexampledescriptor-objects",
+					"projectIndex" : 63
+				},
+				{
+					"directoryIndex" : 66,
+					"id" : "bclexamplefind-objects::@3c2bb44e5379ba1c4004",
+					"jsonFile" : "target-bclexamplefind-objects-Debug-73ae52b83c855733b4e4.json",
+					"name" : "bclexamplefind-objects",
+					"projectIndex" : 64
+				},
+				{
+					"directoryIndex" : 67,
+					"id" : "bclexamplefold-objects::@6abf653c52e192b146b9",
+					"jsonFile" : "target-bclexamplefold-objects-Debug-91563afd0bce9e7737cf.json",
+					"name" : "bclexamplefold-objects",
+					"projectIndex" : 65
+				},
+				{
+					"directoryIndex" : 68,
+					"id" : "bclexamplefunction-objects::@260ea53b2a01323339ae",
+					"jsonFile" : "target-bclexamplefunction-objects-Debug-02fbff7cd6d2bcb8c623.json",
+					"name" : "bclexamplefunction-objects",
+					"projectIndex" : 66
+				},
+				{
+					"directoryIndex" : 69,
+					"id" : "bclexamplegraph-objects::@746c37334a3a6be86fc8",
+					"jsonFile" : "target-bclexamplegraph-objects-Debug-78c45392d4c84621c520.json",
+					"name" : "bclexamplegraph-objects",
+					"projectIndex" : 67
+				},
+				{
+					"directoryIndex" : 70,
+					"id" : "bclexamplegzip-objects::@c0238a74adc5325792c4",
+					"jsonFile" : "target-bclexamplegzip-objects-Debug-7393f58f52d9988af4ba.json",
+					"name" : "bclexamplegzip-objects",
+					"projectIndex" : 68
+				},
+				{
+					"directoryIndex" : 71,
+					"id" : "bclexampleio-objects::@5741d8b582e1465bfdf3",
+					"jsonFile" : "target-bclexampleio-objects-Debug-33ba85a0bd0e38b0d57f.json",
+					"name" : "bclexampleio-objects",
+					"projectIndex" : 69
+				},
+				{
+					"directoryIndex" : 72,
+					"id" : "bclexampleiterator-objects::@3050eb0f4743339f9672",
+					"jsonFile" : "target-bclexampleiterator-objects-Debug-6741d8e0bc1108e15c0b.json",
+					"name" : "bclexampleiterator-objects",
+					"projectIndex" : 70
+				},
+				{
+					"directoryIndex" : 73,
+					"id" : "bclexamplelinal-objects::@ba04c8f3cda335c04baa",
+					"jsonFile" : "target-bclexamplelinal-objects-Debug-462532bbaf6f52daa3de.json",
+					"name" : "bclexamplelinal-objects",
+					"projectIndex" : 71
+				},
+				{
+					"directoryIndex" : 74,
+					"id" : "bclexamplemath-objects::@48a8c86b8a0dc4b8d6e7",
+					"jsonFile" : "target-bclexamplemath-objects-Debug-e7c767045da32ed32bf7.json",
+					"name" : "bclexamplemath-objects",
+					"projectIndex" : 72
+				},
+				{
+					"directoryIndex" : 75,
+					"id" : "bclexamplemc-objects::@a6aba2cd36306bec1fb7",
+					"jsonFile" : "target-bclexamplemc-objects-Debug-7488a03ce916412e9509.json",
+					"name" : "bclexamplemc-objects",
+					"projectIndex" : 73
+				},
+				{
+					"directoryIndex" : 76,
+					"id" : "bclexamplemodel-objects::@d504ec5945df52c27e59",
+					"jsonFile" : "target-bclexamplemodel-objects-Debug-9205a227780bfd053523.json",
+					"name" : "bclexamplemodel-objects",
+					"projectIndex" : 74
+				},
+				{
+					"directoryIndex" : 77,
+					"id" : "bclexamplenmr-objects::@3418e29d2687c48fbd55",
+					"jsonFile" : "target-bclexamplenmr-objects-Debug-d1cb8d100a025db6c7f3.json",
+					"name" : "bclexamplenmr-objects",
+					"projectIndex" : 75
+				},
+				{
+					"directoryIndex" : 79,
+					"id" : "bclexampleopencl-objects::@a06707b50e8dc733389f",
+					"jsonFile" : "target-bclexampleopencl-objects-Debug-f1d4f38ccd5fbb6ac83c.json",
+					"name" : "bclexampleopencl-objects",
+					"projectIndex" : 76
+				},
+				{
+					"directoryIndex" : 80,
+					"id" : "bclexampleopti-objects::@075d1c05ed0059853c11",
+					"jsonFile" : "target-bclexampleopti-objects-Debug-f29e24eb2d59b1225a8f.json",
+					"name" : "bclexampleopti-objects",
+					"projectIndex" : 77
+				},
+				{
+					"directoryIndex" : 81,
+					"id" : "bclexamplepdb-objects::@d361c9bc857f5af1356d",
+					"jsonFile" : "target-bclexamplepdb-objects-Debug-a9e9cc6b85224b2850f4.json",
+					"name" : "bclexamplepdb-objects",
+					"projectIndex" : 78
+				},
+				{
+					"directoryIndex" : 82,
+					"id" : "bclexamplepthread-objects::@3351d6c6fa6fc47f6d32",
+					"jsonFile" : "target-bclexamplepthread-objects-Debug-5a9363661dad0ab3edf6.json",
+					"name" : "bclexamplepthread-objects",
+					"projectIndex" : 79
+				},
+				{
+					"directoryIndex" : 83,
+					"id" : "bclexamplequality-objects::@9f3ff4b26e5a0315d492",
+					"jsonFile" : "target-bclexamplequality-objects-Debug-b6576d73143753cc05a8.json",
+					"name" : "bclexamplequality-objects",
+					"projectIndex" : 80
+				},
+				{
+					"directoryIndex" : 84,
+					"id" : "bclexamplerandom-objects::@cb9fabe9111bf6bf42ca",
+					"jsonFile" : "target-bclexamplerandom-objects-Debug-65e551394ef765eb5186.json",
+					"name" : "bclexamplerandom-objects",
+					"projectIndex" : 81
+				},
+				{
+					"directoryIndex" : 85,
+					"id" : "bclexamplerestraint-objects::@2c057e94ae641b8d3c81",
+					"jsonFile" : "target-bclexamplerestraint-objects-Debug-86bedead5fc3bcad0bf8.json",
+					"name" : "bclexamplerestraint-objects",
+					"projectIndex" : 82
+				},
+				{
+					"directoryIndex" : 86,
+					"id" : "bclexamplesched-objects::@6cd38ce588957e236b30",
+					"jsonFile" : "target-bclexamplesched-objects-Debug-b50b11db95fe3825f6bc.json",
+					"name" : "bclexamplesched-objects",
+					"projectIndex" : 83
+				},
+				{
+					"directoryIndex" : 87,
+					"id" : "bclexamplescore-objects::@589518c24053c8492138",
+					"jsonFile" : "target-bclexamplescore-objects-Debug-0130af2e3fdf4eefb0e1.json",
+					"name" : "bclexamplescore-objects",
+					"projectIndex" : 84
+				},
+				{
+					"directoryIndex" : 88,
+					"id" : "bclexamplescorestat-objects::@0c3393467aa6b21dcf75",
+					"jsonFile" : "target-bclexamplescorestat-objects-Debug-92775ce62eb55a4a0203.json",
+					"name" : "bclexamplescorestat-objects",
+					"projectIndex" : 85
+				},
+				{
+					"directoryIndex" : 89,
+					"id" : "bclexamplesdf-objects::@fdb1fc2900693b6719b3",
+					"jsonFile" : "target-bclexamplesdf-objects-Debug-44e512b0e5864486122f.json",
+					"name" : "bclexamplesdf-objects",
+					"projectIndex" : 86
+				},
+				{
+					"directoryIndex" : 90,
+					"id" : "bclexamplesignal-objects::@52aa0f26f9fca6830d8f",
+					"jsonFile" : "target-bclexamplesignal-objects-Debug-284835daecb02e70e8ca.json",
+					"name" : "bclexamplesignal-objects",
+					"projectIndex" : 87
+				},
+				{
+					"directoryIndex" : 91,
+					"id" : "bclexamplesspred-objects::@ffe9bd65d47214919fa3",
+					"jsonFile" : "target-bclexamplesspred-objects-Debug-711a51c0ee25caa1772c.json",
+					"name" : "bclexamplesspred-objects",
+					"projectIndex" : 88
+				},
+				{
+					"directoryIndex" : 92,
+					"id" : "bclexamplestorage-objects::@78e76b65a310420c4f47",
+					"jsonFile" : "target-bclexamplestorage-objects-Debug-21dc389766324b3ca127.json",
+					"name" : "bclexamplestorage-objects",
+					"projectIndex" : 89
+				},
+				{
+					"directoryIndex" : 93,
+					"id" : "bclexampletype-objects::@ab8affc16d87b77efb77",
+					"jsonFile" : "target-bclexampletype-objects-Debug-18236179a4f6923d5dda.json",
+					"name" : "bclexampletype-objects",
+					"projectIndex" : 90
+				},
+				{
+					"directoryIndex" : 94,
+					"id" : "bclexampleutil-objects::@2e31eb84f274da637e42",
+					"jsonFile" : "target-bclexampleutil-objects-Debug-bfe3c5817264a2f34797.json",
+					"name" : "bclexampleutil-objects",
+					"projectIndex" : 91
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "bclfind-objects::@825157b8b88c69f0e0e7",
+					"jsonFile" : "target-bclfind-objects-Debug-e2ef1a41aa14bed99526.json",
+					"name" : "bclfind-objects",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "bclfold-objects::@367881db3facad981525",
+					"jsonFile" : "target-bclfold-objects-Debug-230a233731b7b0096e6c.json",
+					"name" : "bclfold-objects",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "bclfunction-objects::@56c9b3bac3bda282e8da",
+					"jsonFile" : "target-bclfunction-objects-Debug-0c9fb8cd080e49b3e79c.json",
+					"name" : "bclfunction-objects",
+					"projectIndex" : 17
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "bclgraph-objects::@e69a429a7ca4d2525b30",
+					"jsonFile" : "target-bclgraph-objects-Debug-5270d97ea985c4292c03.json",
+					"name" : "bclgraph-objects",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "bclgzip-objects::@3af8a1bf0e45a19a7641",
+					"jsonFile" : "target-bclgzip-objects-Debug-b4a44512034ed4c2523f.json",
+					"name" : "bclgzip-objects",
+					"projectIndex" : 19
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "bclio-objects::@c38754c4f6dd65252431",
+					"jsonFile" : "target-bclio-objects-Debug-169c936bd8ef9d2d6a02.json",
+					"name" : "bclio-objects",
+					"projectIndex" : 21
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "bcliterate-objects::@44dd3349fdd5f9f2fc1f",
+					"jsonFile" : "target-bcliterate-objects-Debug-7ddaeb72402962f9bc15.json",
+					"name" : "bcliterate-objects",
+					"projectIndex" : 20
+				},
+				{
+					"directoryIndex" : 22,
+					"id" : "bcllinal-objects::@caf3111f35a086e81b36",
+					"jsonFile" : "target-bcllinal-objects-Debug-88668a3f6607ebf703cb.json",
+					"name" : "bcllinal-objects",
+					"projectIndex" : 22
+				},
+				{
+					"directoryIndex" : 23,
+					"id" : "bclmath-objects::@4bf54b31faf2c315dd9a",
+					"jsonFile" : "target-bclmath-objects-Debug-4020f91ff6fecb3e41be.json",
+					"name" : "bclmath-objects",
+					"projectIndex" : 23
+				},
+				{
+					"directoryIndex" : 24,
+					"id" : "bclmc-objects::@34cc453ef27ee8796084",
+					"jsonFile" : "target-bclmc-objects-Debug-a56e91002f18dc4def1b.json",
+					"name" : "bclmc-objects",
+					"projectIndex" : 24
+				},
+				{
+					"directoryIndex" : 25,
+					"id" : "bclmodel-objects::@97e7db819932be955c1c",
+					"jsonFile" : "target-bclmodel-objects-Debug-39125346da4640cc7d51.json",
+					"name" : "bclmodel-objects",
+					"projectIndex" : 25
+				},
+				{
+					"directoryIndex" : 26,
+					"id" : "bclnmr-objects::@dd36e16b2483547de43e",
+					"jsonFile" : "target-bclnmr-objects-Debug-0e01c7879b599e0a7721.json",
+					"name" : "bclnmr-objects",
+					"projectIndex" : 26
+				},
+				{
+					"directoryIndex" : 27,
+					"id" : "bclopencl-objects::@37e90d5f77e171ba3e2e",
+					"jsonFile" : "target-bclopencl-objects-Debug-ed510da12a3c766b45a5.json",
+					"name" : "bclopencl-objects",
+					"projectIndex" : 27
+				},
+				{
+					"directoryIndex" : 29,
+					"id" : "bclopti-objects::@708a3abadf276c6c7732",
+					"jsonFile" : "target-bclopti-objects-Debug-ffbd604d6d5e86839998.json",
+					"name" : "bclopti-objects",
+					"projectIndex" : 28
+				},
+				{
+					"directoryIndex" : 30,
+					"id" : "bclpdb-objects::@03b063961deb5b293a93",
+					"jsonFile" : "target-bclpdb-objects-Debug-8b82eb94e01e346fc695.json",
+					"name" : "bclpdb-objects",
+					"projectIndex" : 29
+				},
+				{
+					"directoryIndex" : 31,
+					"id" : "bclpthread-objects::@5f36ae326916cfcb63c7",
+					"jsonFile" : "target-bclpthread-objects-Debug-ab4d3c648c9507438ce7.json",
+					"name" : "bclpthread-objects",
+					"projectIndex" : 30
+				},
+				{
+					"directoryIndex" : 32,
+					"id" : "bclquality-objects::@5d57701dafa377e5da8a",
+					"jsonFile" : "target-bclquality-objects-Debug-eaf407daa018ecd015a6.json",
+					"name" : "bclquality-objects",
+					"projectIndex" : 31
+				},
+				{
+					"directoryIndex" : 33,
+					"id" : "bclrandom-objects::@5cfa954e40b7f4fe1ffe",
+					"jsonFile" : "target-bclrandom-objects-Debug-1b69c0010a8307754571.json",
+					"name" : "bclrandom-objects",
+					"projectIndex" : 32
+				},
+				{
+					"directoryIndex" : 34,
+					"id" : "bclrestraint-objects::@567cfea74d7a15d483fe",
+					"jsonFile" : "target-bclrestraint-objects-Debug-484b31af3d8eec309680.json",
+					"name" : "bclrestraint-objects",
+					"projectIndex" : 33
+				},
+				{
+					"directoryIndex" : 35,
+					"id" : "bclsched-objects::@ac6af8a1de57094c3a7e",
+					"jsonFile" : "target-bclsched-objects-Debug-8f0c9a578ba4e023d2ab.json",
+					"name" : "bclsched-objects",
+					"projectIndex" : 34
+				},
+				{
+					"directoryIndex" : 36,
+					"id" : "bclscore-objects::@275dfc0660819d4015a3",
+					"jsonFile" : "target-bclscore-objects-Debug-daee6667bb25d7406bb1.json",
+					"name" : "bclscore-objects",
+					"projectIndex" : 35
+				},
+				{
+					"directoryIndex" : 37,
+					"id" : "bclscorestat-objects::@0a3ea48a929b3ea2712b",
+					"jsonFile" : "target-bclscorestat-objects-Debug-29e9cda3044090460524.json",
+					"name" : "bclscorestat-objects",
+					"projectIndex" : 36
+				},
+				{
+					"directoryIndex" : 38,
+					"id" : "bclsdf-objects::@b863c8c28acb2d63fcee",
+					"jsonFile" : "target-bclsdf-objects-Debug-3573eeaf82d64f40df12.json",
+					"name" : "bclsdf-objects",
+					"projectIndex" : 37
+				},
+				{
+					"directoryIndex" : 39,
+					"id" : "bclsignal-objects::@20e4ec629b3469522b76",
+					"jsonFile" : "target-bclsignal-objects-Debug-dd958a9d1b27efb3ab3f.json",
+					"name" : "bclsignal-objects",
+					"projectIndex" : 38
+				},
+				{
+					"directoryIndex" : 40,
+					"id" : "bclsspred-objects::@0323b4b300dc6f06ea5d",
+					"jsonFile" : "target-bclsspred-objects-Debug-08583827c0052f8b94c4.json",
+					"name" : "bclsspred-objects",
+					"projectIndex" : 39
+				},
+				{
+					"directoryIndex" : 41,
+					"id" : "bclstorage-objects::@b7d095ccc52088a0d0e4",
+					"jsonFile" : "target-bclstorage-objects-Debug-e01db44757bef232c35c.json",
+					"name" : "bclstorage-objects",
+					"projectIndex" : 40
+				},
+				{
+					"directoryIndex" : 42,
+					"id" : "bcltype-objects::@924f2bf4c868bfa0ee81",
+					"jsonFile" : "target-bcltype-objects-Debug-59bb515f3c434da6cf98.json",
+					"name" : "bcltype-objects",
+					"projectIndex" : 41
+				},
+				{
+					"directoryIndex" : 43,
+					"id" : "bclutil-objects::@abfa48c96b3eff989354",
+					"jsonFile" : "target-bclutil-objects-Debug-b3fcdb6aeea78c9a9c9a.json",
+					"name" : "bclutil-objects",
+					"projectIndex" : 42
+				},
+				{
+					"directoryIndex" : 53,
+					"id" : "examples::@70983d692f648185febe",
+					"jsonFile" : "target-examples-Debug-d576d0f8c452413272e9.json",
+					"name" : "examples",
+					"projectIndex" : 51
+				},
+				{
+					"directoryIndex" : 44,
+					"id" : "main::@9e189ee61a034fc9b705",
+					"jsonFile" : "target-main-Debug-0f882ef904375b506b91.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shared-Debug-6e96b95ba3de90ea0eb5.json",
+					"name" : "shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-static-Debug-8a72ee3d53a18fef15e3.json",
+					"name" : "static",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/decortja/bcl_clone/bcl/cmake-build-debug",
+		"source" : "/home/decortja/bcl_clone/bcl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

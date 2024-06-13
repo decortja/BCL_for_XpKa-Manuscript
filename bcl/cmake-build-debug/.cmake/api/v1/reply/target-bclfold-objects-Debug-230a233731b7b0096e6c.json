@@ -1,0 +1,1526 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_add_parabolic_loops.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_collector_loop_domain.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_collector_loop_domain_all_non_rigid.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_collector_loop_domain_random.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_collector_unconnected_sses.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_default_flags.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_default_mutates.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_default_scores.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_handler_locator_loop_domain.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_handler_locator_loop_segment.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_locator_loop.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_locator_loop_domain.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_locator_loop_segment.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_locator_missing_coordinates.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_locator_unconnected_segments.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_loop_domain.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_loop_domain_c_to_n.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_loop_library.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_loop_parameters.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_loop_segment.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_loop_segment_sequence_order.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_aa_phi.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_aa_psi.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_aa_rotate.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_aa_sequence_grow.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_aa_set_phi.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_aa_set_psi.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_domain_flip.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_domain_merge_consecutive_ss_types.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_domain_shuffle.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_domain_sse_pair_trim.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_domain_sse_split.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_domain_transformation.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_loop_domain_dihedral.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_membrane.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_membrane_chain_move.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_multimer.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_ensemble_add.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_ensemble_remove.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_add_sheet_from_template.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_chain_move.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_compress.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_domain.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_domain_add.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_filter_conformations.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_fix_loop_closure_wrapper.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_grow_sse.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_loop_domain.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_loop_domain_ccd.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_loop_domain_grow.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_loop_resize.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_move_aa.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_multiple_geometries.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_pair_strands.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_replicate_conformation.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_add.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_add_multiple.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_move.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_pair.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_pair_align_and_pull.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_pair_clash.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_pair_fix_loop_closure.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_pair_hinge.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_remove.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_resize.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_seed.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_split.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_swap.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_swap_body.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_swap_multimer.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_swap_with_pool.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_sse_swap_with_pool_overlap.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_strand_switch_sheet.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_switch_conformation.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_protein_model_thread_sequence.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sheet_cycle.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sheet_divide.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sheet_fit_to_template.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sheet_order.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sheet_register_fix.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sheet_register_shift.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sheet_sort.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sheet_twist.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sse_bend_ramachandran.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sse_bend_random.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sse_bend_template.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_sse_type.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutate_tree.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutates.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_mutation_residue.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_phi_psi_generator_ccd.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_phi_psi_generator_ramachandran.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_placement_domain.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_placement_domain_using_fold_template.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_placement_sse_distance_restraint.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_placement_sse_into_body.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_placement_sse_next_to_sse.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_placement_sse_short_loop.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_placement_strand_next_to_sheet.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protein_geometry.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_assembly.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_create.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_default.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_dock.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_em.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_ensemble.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_ensemble_filter.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_ensemble_replicate_conformation.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_ensemble_switch_conformation.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_loop_close.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_loop_coordinate_add.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_membrane.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_multimer.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_refinement.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_restraint.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocol_template.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_protocols.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_score_weight_set.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_scores.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_setup.cpp.o"
+		},
+		{
+			"path" : "source/fold/CMakeFiles/bclfold-objects.dir/./bcl_fold_stage_factory.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"source/fold/CMakeLists.txt",
+			"CMakeLists.txt",
+			"bcl_externals.cmake",
+			"source/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 138,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -fmessage-length=0 -g   -Wno-deprecated -Wall -fPIC -fno-pretty-templates"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/apps"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/decortja/bcl_clone/bcl/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/bzip2/1.0.5/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/zlib/1.2.5/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/freeocl/0.3.6/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/decortja/bcl_clone/bcl/source/../include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/decortja/bcl_clone/bcl/source/fold/../../include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123
+			]
+		}
+	],
+	"id" : "bclfold-objects::@367881db3facad981525",
+	"name" : "bclfold-objects",
+	"paths" : 
+	{
+		"build" : "source/fold",
+		"source" : "source/fold"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_add_parabolic_loops.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_collector_loop_domain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_collector_loop_domain_all_non_rigid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_collector_loop_domain_random.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_collector_unconnected_sses.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_default_flags.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_default_mutates.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_default_scores.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_handler_locator_loop_domain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_handler_locator_loop_segment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_locator_loop.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_locator_loop_domain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_locator_loop_segment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_locator_missing_coordinates.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_locator_unconnected_segments.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_loop_domain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_loop_domain_c_to_n.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_loop_library.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_loop_parameters.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_loop_segment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_loop_segment_sequence_order.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_aa_phi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_aa_psi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_aa_rotate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_aa_sequence_grow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_aa_set_phi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_aa_set_psi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_domain_flip.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_domain_merge_consecutive_ss_types.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_domain_shuffle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_domain_sse_pair_trim.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_domain_sse_split.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_domain_transformation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_loop_domain_dihedral.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_membrane.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_membrane_chain_move.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_multimer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_ensemble_add.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_ensemble_remove.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_add_sheet_from_template.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_chain_move.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_compress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_domain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_domain_add.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_filter_conformations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_fix_loop_closure_wrapper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_grow_sse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_loop_domain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_loop_domain_ccd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_loop_domain_grow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_loop_resize.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_move_aa.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_multiple_geometries.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_pair_strands.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_replicate_conformation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_add.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_add_multiple.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_move.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_pair.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_pair_align_and_pull.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_pair_clash.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_pair_fix_loop_closure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_pair_hinge.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_remove.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_resize.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_seed.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_split.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_swap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_swap_body.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_swap_multimer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_swap_with_pool.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_sse_swap_with_pool_overlap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_strand_switch_sheet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_switch_conformation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_protein_model_thread_sequence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sheet_cycle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sheet_divide.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sheet_fit_to_template.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sheet_order.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sheet_register_fix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sheet_register_shift.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sheet_sort.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sheet_twist.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sse_bend_ramachandran.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sse_bend_random.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sse_bend_template.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_sse_type.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutate_tree.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutates.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_mutation_residue.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_phi_psi_generator_ccd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_phi_psi_generator_ramachandran.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_placement_domain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_placement_domain_using_fold_template.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_placement_sse_distance_restraint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_placement_sse_into_body.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_placement_sse_next_to_sse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_placement_sse_short_loop.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_placement_strand_next_to_sheet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protein_geometry.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_assembly.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_create.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_default.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_dock.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_em.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_ensemble.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_ensemble_filter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_ensemble_replicate_conformation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_ensemble_switch_conformation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_loop_close.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_loop_coordinate_add.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_membrane.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_multimer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_refinement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_restraint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocol_template.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_protocols.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_score_weight_set.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_scores.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_setup.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/fold/bcl_fold_stage_factory.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

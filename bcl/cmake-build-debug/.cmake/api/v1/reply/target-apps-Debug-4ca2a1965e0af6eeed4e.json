@@ -1,0 +1,65 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_CUSTOM_TARGET",
+			"MACRO_ADD_CUSTOM_TARGET",
+			"ADD_DEPENDENCIES"
+		],
+		"files" : 
+		[
+			"cmake/modules/MacroAddCustomTarget.cmake",
+			"CMakeLists.txt",
+			"apps/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 311,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2,
+				"parent" : 1
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "bcl-apps::@9e189ee61a034fc9b705"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "bcl-apps-static::@9e189ee61a034fc9b705"
+		}
+	],
+	"id" : "apps::@6890427a1f51a3e7e1df",
+	"name" : "apps",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

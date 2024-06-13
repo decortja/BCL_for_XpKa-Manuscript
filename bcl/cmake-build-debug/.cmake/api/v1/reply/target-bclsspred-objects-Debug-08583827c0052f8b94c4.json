@@ -1,0 +1,503 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_b2tmpred.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_boctopus.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_ci_phi_psi.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_conpred.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_dssp.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_dssp_stride.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_jufo.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_jufo9d.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_jufo_ann.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_kaksi.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_mahssmi.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_masp.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_method_handler.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_method_interface.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_methods.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_octopus.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_palsse.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_partifold.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_pdb.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_profphd.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_proftmb.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_psipred.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_sam.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_sse_factory_highest.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_sse_factory_threshold.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_stride.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_talos.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_tmbetanet.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_tmhmm.cpp.o"
+		},
+		{
+			"path" : "source/sspred/CMakeFiles/bclsspred-objects.dir/./bcl_sspred_tmmod.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"source/sspred/CMakeLists.txt",
+			"CMakeLists.txt",
+			"bcl_externals.cmake",
+			"source/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -fmessage-length=0 -g   -Wno-deprecated -Wall -fPIC -fno-pretty-templates"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/apps"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/decortja/bcl_clone/bcl/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/bzip2/1.0.5/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/zlib/1.2.5/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/freeocl/0.3.6/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/decortja/bcl_clone/bcl/source/../include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/decortja/bcl_clone/bcl/source/sspred/../../include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		}
+	],
+	"id" : "bclsspred-objects::@0323b4b300dc6f06ea5d",
+	"name" : "bclsspred-objects",
+	"paths" : 
+	{
+		"build" : "source/sspred",
+		"source" : "source/sspred"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_b2tmpred.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_boctopus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_ci_phi_psi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_conpred.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_dssp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_dssp_stride.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_jufo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_jufo9d.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_jufo_ann.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_kaksi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_mahssmi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_masp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_method_handler.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_method_interface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_methods.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_octopus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_palsse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_partifold.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_pdb.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_profphd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_proftmb.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_psipred.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_sam.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_sse_factory_highest.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_sse_factory_threshold.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_stride.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_talos.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_tmbetanet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_tmhmm.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/sspred/bcl_sspred_tmmod.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

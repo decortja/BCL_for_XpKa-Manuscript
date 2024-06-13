@@ -1,0 +1,63 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"apps/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 95,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "AppsStatic",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/bcl-apps-static.exe"
+			],
+			"targetId" : "bcl-apps-static::@9e189ee61a034fc9b705",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "AppsDynamic",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"bin/bcl-apps.exe"
+			],
+			"targetId" : "bcl-apps::@9e189ee61a034fc9b705",
+			"targetIndex" : 1,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "apps",
+		"source" : "apps"
+	}
+}

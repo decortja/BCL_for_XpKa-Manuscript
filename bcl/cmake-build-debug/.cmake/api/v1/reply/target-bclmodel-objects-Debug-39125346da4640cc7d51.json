@@ -1,0 +1,1570 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_align_cutoff.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_align_cutoff.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_applicability_domain_kohonen.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_base.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_decision_tree.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_kappa_nearest_neighbor.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_kohonen_network.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_leverage_matrix.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_linear_regression.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_neural_network.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_neural_network_selective.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_restricted_boltzmann_machine.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_support_vector_machine.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_approximator_support_vector_machine_multi_output.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_collect_features_above.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_collect_features_top.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_cross_validation_info.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_log.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_multiplied.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_reduced_to_cluster_centers.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_reduced_to_k_means.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_reduced_to_principal_components.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_score.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_select_columns.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_sqrt.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_data_set_statistics.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_decision_tree.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_descriptor_selection_backward_elimination.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_descriptor_selection_exhaustive.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_descriptor_selection_feature_forward.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_dtree_binary_partition.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_dtree_data_partition_function_interface.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_dtree_gini_index_data_partition_function.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_dtree_information_gain_data_partition_function.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_dtree_roc_data_partition_function.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_dtree_sequence_data_partition_function.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_feature_data_set.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_feature_label_set.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_feature_result_and_state.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_has_labels_base.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_interface_retrieve_from_file.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_interface_store_in_file.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_kappa_nearest_neighbor.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_kohonen_network_applicability_domain.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_kohonen_network_average.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_kohonen_node.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_leverage_matrix.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_meta_data_storage_file.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_multiple_linear_regression.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_perturb_attenuate.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_perturb_max_norm.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_selective_backpropagation_accuracy.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_selective_backpropagation_adaptive_tolerance.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_selective_backpropagation_balanced.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_selective_backpropagation_default.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_selective_backpropagation_hybrid.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_selective_backpropagation_leading_sequence.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_selective_backpropagation_tolerance.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_update_weights_bounded_simple_propagation.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_update_weights_resilient_propagation.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_neural_network_update_weights_simple_propagation.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_accuracy.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_accuracy_with_excluded_range.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_auc_roc_curve.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_binary_operation.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_bootstrap.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_categorical_max.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_constant.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_contingency_matrix_measure.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_cutoff_from_percentile.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_enrichment.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_enrichment_average.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_information_gain_ratio.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_integral_precision_fraction_predicted.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_integral_tnr_tpr.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_interface.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_mae.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_partial.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_rmsd.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_segment_overlap.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_selective.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_objective_function_wrapper.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_pretrain_neural_network_from_file.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_pretrain_stacked_auto_encoder.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_rescale_feature_data_set.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_restricted_boltzmann_machine_layer.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_balanced.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_base.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_bootstrap.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_by_feature.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_by_id.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_by_result.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_chunk.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_combined.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_encoded_by_model.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_from_delimited_file.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_from_file.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_join.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_randomized.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_rescaled.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_rows.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_data_set_yscramble.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_dataset_subset.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_retrieve_interface.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_binary_operation.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_f_score.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_input_sensitivity.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_input_sensitivity_discrete.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_neural_network_input_sensitivity.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_neural_network_weights.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_non_redundant.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_partition.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_dataset_pearson_correlation.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_score_derivative_ensemble.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_support_vector_kernel_base.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_support_vector_kernel_polynomial.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_support_vector_kernel_rbf.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_support_vector_machine.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_support_vector_machine_multi_output.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_train_restricted_boltzmann_machine_layer.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_training_schedule.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_transfer_function_interface.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_transfer_gaussian.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_transfer_linear.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_transfer_rectifier.cpp.o"
+		},
+		{
+			"path" : "source/model/CMakeFiles/bclmodel-objects.dir/./bcl_model_transfer_sigmoid.cpp.o"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INCLUDE_DIRECTORIES",
+			"INCLUDE"
+		],
+		"files" : 
+		[
+			"source/model/CMakeLists.txt",
+			"CMakeLists.txt",
+			"bcl_externals.cmake",
+			"source/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 142,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 107,
+				"parent" : 5
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 10
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -fmessage-length=0 -g   -Wno-deprecated -Wall -fPIC -fno-pretty-templates"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/decortja/bcl_clone/bcl/apps"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/decortja/bcl_clone/bcl/."
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/bzip2/1.0.5/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/zlib/1.2.5/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/decortja/bcl_clone/bcl/extern/noarch/freeocl/0.3.6/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/decortja/bcl_clone/bcl/source/../include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/decortja/bcl_clone/bcl/source/model/../../include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127
+			]
+		}
+	],
+	"id" : "bclmodel-objects::@97e7db819932be955c1c",
+	"name" : "bclmodel-objects",
+	"paths" : 
+	{
+		"build" : "source/model",
+		"source" : "source/model"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_align_cutoff.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_align_cutoff.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_applicability_domain_kohonen.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_decision_tree.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_kappa_nearest_neighbor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_kohonen_network.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_leverage_matrix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_linear_regression.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_neural_network.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_neural_network_selective.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_restricted_boltzmann_machine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_support_vector_machine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_approximator_support_vector_machine_multi_output.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_collect_features_above.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_collect_features_top.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_cross_validation_info.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_log.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_multiplied.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_reduced_to_cluster_centers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_reduced_to_k_means.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_reduced_to_principal_components.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_select_columns.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_sqrt.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_data_set_statistics.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_decision_tree.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_descriptor_selection_backward_elimination.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_descriptor_selection_exhaustive.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_descriptor_selection_feature_forward.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_dtree_binary_partition.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_dtree_data_partition_function_interface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_dtree_gini_index_data_partition_function.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_dtree_information_gain_data_partition_function.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_dtree_roc_data_partition_function.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_dtree_sequence_data_partition_function.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_feature_data_set.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_feature_label_set.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_feature_result_and_state.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_has_labels_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_interface_retrieve_from_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_interface_store_in_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_kappa_nearest_neighbor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_kohonen_network_applicability_domain.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_kohonen_network_average.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_kohonen_node.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_leverage_matrix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_meta_data_storage_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_multiple_linear_regression.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_perturb_attenuate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_perturb_max_norm.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_selective_backpropagation_accuracy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_selective_backpropagation_adaptive_tolerance.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_selective_backpropagation_balanced.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_selective_backpropagation_default.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_selective_backpropagation_hybrid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_selective_backpropagation_leading_sequence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_selective_backpropagation_tolerance.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_update_weights_bounded_simple_propagation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_update_weights_resilient_propagation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_neural_network_update_weights_simple_propagation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_accuracy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_accuracy_with_excluded_range.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_auc_roc_curve.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_binary_operation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_bootstrap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_categorical_max.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_constant.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_contingency_matrix_measure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_cutoff_from_percentile.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_enrichment.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_enrichment_average.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_information_gain_ratio.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_integral_precision_fraction_predicted.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_integral_tnr_tpr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_interface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_mae.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_partial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_rmsd.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_segment_overlap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_selective.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_objective_function_wrapper.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_pretrain_neural_network_from_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_pretrain_stacked_auto_encoder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_rescale_feature_data_set.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_restricted_boltzmann_machine_layer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_balanced.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_bootstrap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_by_feature.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_by_id.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_by_result.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_chunk.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_combined.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_encoded_by_model.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_from_delimited_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_from_file.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_join.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_randomized.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_rescaled.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_rows.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_data_set_yscramble.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_dataset_subset.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_retrieve_interface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_binary_operation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_f_score.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_input_sensitivity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_input_sensitivity_discrete.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_neural_network_input_sensitivity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_neural_network_weights.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_non_redundant.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_partition.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_dataset_pearson_correlation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_score_derivative_ensemble.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_support_vector_kernel_base.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_support_vector_kernel_polynomial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_support_vector_kernel_rbf.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_support_vector_machine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_support_vector_machine_multi_output.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_train_restricted_boltzmann_machine_layer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_training_schedule.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_transfer_function_interface.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_transfer_gaussian.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_transfer_linear.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_transfer_rectifier.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "source/model/bcl_model_transfer_sigmoid.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}
